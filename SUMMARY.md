@@ -1,8 +1,9 @@
 # Table of contents
 
-* [The Making of the Middle Ages](README.md)
+* [FYSM 1405: The Making of the Middle Ages](README.md)
 
 ## Syllabus
 
-* [Untitled](syllabus/untitled.md)
+* [Your Professor](syllabus/your-professor.md)
+* [What is a seminar?](syllabus/untitled.md)
 

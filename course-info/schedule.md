@@ -1,19 +1,21 @@
 # Schedule
 
+{% hint style="danger" %}
+I'll post an overview schedule for the course here. Obviously, this is still in progress. 
+{% endhint %}
 
-
-### Rough Schedule
+### Rough Schedule - Weekly
 
 1. Welcome! Syllabus, introductions and more!
 2. What is the Middle Ages, to you?
 3. Where is the Middle Ages? Understanding the idea of the Global Middle Ages
-4. Library Tour
+4. Evidence, Research and Research Support
 
    a.    What do librarians do?
 
-   b.    How do I use course reserves?
+   b.    How do I use online course reserves?
 
-   c.    How do I book a room?
+   c.    How do I book a room, get a laptop, get ILL?
 
    d.    Book Arts Lab
 
@@ -21,20 +23,34 @@
 
    f.    ARC
 
-5. Make INK – decipher various medieval recipes
-6. ARC Trip – Folios and Mss
-7. Media and Supports 
-8. Pricking and ruling
-9. Calligraphy \(x2\)
-10. Illumination \(x2\)
-11. Binding \(x2\) Collation
-12. Ms. description
-13. Editions \(x4\)
+#### Evidence 
 
-    a.    Wood cuts?
+#### Historical Representations of the Middle Ages
 
-    b.    Typeset a page of a medieval text
+#### Popular Representations of the Middle Ages
 
-14. Translations
-15. Genres.
+#### 
+
+
+
+1. The idea of the Dark Ages 
+2. 
+In person activities \(now not possible\)
+
+1. Make INK – decipher various medieval recipes
+2. ARC Trip – Folios and Mss
+3. Media and Supports 
+4. Pricking and ruling
+5. Calligraphy \(x2\)
+6. Illumination \(x2\)
+7. Binding \(x2\) Collation
+8. Ms. description
+9. Editions \(x4\)
+
+   a.    Wood cuts?
+
+   b.    Typeset a page of a medieval text
+
+10. Translations
+11. Genres.
 

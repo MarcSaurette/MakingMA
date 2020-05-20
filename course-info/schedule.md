@@ -2,7 +2,7 @@
 
 
 
-Rough Schedule \(not for circulation\):
+### Rough Schedule
 
 1. Welcome! Syllabus, introductions and more!
 2. What is the Middle Ages, to you?

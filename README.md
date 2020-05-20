@@ -17,19 +17,16 @@ The course is divided into three major areas of exploration:
 
 1.     **Evidence**: 
 
-a.     working on newly developed digital platforms for manuscript studies, we will look at and understand real medieval manuscripts \(at least on your screen\).  
-
-b.     we will read medieval texts in translation: for example, the story of Saint Guinefort \(the holy greyhound\), Crusade chronicles, or the original account of King Arthur by Geoffrey of Monmouth.
-
-c.     In future \(non-pandemic years\) I hope to tinker with the Discovery Centre’s 3D printer to reproduce, for example, medieval book clasps or the Lewes Chessmen from open source 3D printing files. 
+* working on newly developed digital platforms for manuscript studies, we will look at and understand real medieval manuscripts \(at least on your screen\).  
+* we will read medieval texts in translation: for example, the story of Saint Guinefort \(the holy greyhound\), Crusade chronicles, or the original account of King Arthur by Geoffrey of Monmouth
+*  In the future \(non-pandemic time\) I hope to tinker with the Discovery Centre’s 3D printer to reproduce, for example, medieval book clasps or the Lewes Chessmen from open source 3D printing files. 
 
 2.     **Historians**: 
 
-a.     Reading articles or extracts from studies written by historians, we will explore how different historians have influenced how we read and understand evidence. Key for studying any topic from a historical perspective is to recognize that interpretations of the past can change significantly over time and place. 
-
-b.     We will explore how nineteenth-century nationalism, in particular, is very influential in forming our ideas of the Middle Ages. We still all know about King Arthur because medieval and early modern people were so good at making him a symbol of English \(and later North American\) nationhood. Spoiler: King Arthur was made up in the twelfth-century, but the lie was so good people believe it today…
+* Reading articles or extracts from studies written by historians, we will explore how different historians have influenced how we read and understand evidence. Key for studying any topic from a historical perspective is to recognize that interpretations of the past can change significantly over time and place.
+* We will explore how nineteenth-century nationalism, in particular, is very influential in forming our ideas of the Middle Ages. We still all know about King Arthur because medieval and early modern people were so good at making him a symbol of English \(and later North American\) nationhood. Spoiler: King Arthur was made up in the twelfth-century, but the lie was so good people believe it today…
 
 3.     **Popular Representations**:
 
-a.     Your \(and my\) feelings about the medieval past are often built more by non-academic things than by reading historians. Novels, movies, commercials and videogames all influence our understanding of the Middle Ages and can be more persuasive than real evidence. But they rarely offer a truthful representation of the past. We will explore the Middle Ages that “feels” right \(but might not be historically accurate\) and figure out why myths of the Middle Ages are so common. 
+* Your \(and my\) feelings about the medieval past are often built more by non-academic things than by reading historians. Novels, movies, commercials and videogames all influence our understanding of the Middle Ages and can be more persuasive than real evidence. But they rarely offer a truthful representation of the past. We will explore the Middle Ages that “feels” right \(but might not be historically accurate\) and figure out why myths of the Middle Ages are so common. 
 

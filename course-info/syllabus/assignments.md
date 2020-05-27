@@ -1,4 +1,4 @@
-# Assignments
+# Classwork
 
 Practical Demonstrations
 
@@ -11,7 +11,7 @@ Tutorials to write up:
 
 Book Arts Modules. 
 
-
+Make a pen. 
 
 
 

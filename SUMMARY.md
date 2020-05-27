@@ -8,6 +8,7 @@
 * [Syllabus](course-info/syllabus/README.md)
   * [What is a seminar?](course-info/syllabus/untitled.md)
   * [Learning Outcomes](course-info/syllabus/learning-outcomes.md)
+  * [Assignments](course-info/syllabus/assignments.md)
   * [Assessment](course-info/syllabus/assessment.md)
 * [Schedule](course-info/schedule.md)
 * [What to incorporate as we go forward](course-info/what-to-incorporate-as-we-go-forward.md)

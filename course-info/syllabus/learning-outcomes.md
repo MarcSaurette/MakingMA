@@ -2,6 +2,8 @@
 
 ### What are Learning Outcomes?
 
+We want you to learn how to _read_, how to _write_, how to _research_ and most importantly how to _think_ like a historian.
+
 As your professor, I want to be clear about what you will learn \(or what I want you to learn if all goes well\) by the end of the year. I think **a lot** about what I want my students to learn so that they \(i.e. you\) can make progress in becoming a historian. 
 
 {% hint style="info" %}
@@ -10,11 +12,11 @@ As your professor, I want to be clear about what you will learn \(or what I want
 
 ### What are the Learning Outcomes for this Class?
 
-1. You will learn fundamental facts and concepts of what the world looked like from the Third to the Sixteenth century. You will learn that different regions of the Mediterranean world \(composed of what we now call Europe, Africa, Asia and the Middle East\) were intimately linked by history, religion, trade, war and culture. As our times demonstrate, facts matter.
-2. You will learn different ways \(i.e. methodologies\) to think about the past and to understand how people, institutions, forms of power and belief systems worked in the past. A key part of thinking critically about the Middle Ages \(which is what methodologies can help you do\) is understanding how modern myths about the time period arose and why they are reproduced uncritically in modern culture. 
+1. You will learn the fundamental facts and concepts of what the world looked like from the Third to the Sixteenth century. You will learn that different regions of the Mediterranean world \(composed of what we now call Europe, Africa, Asia and the Middle East\) were intimately linked by history, religion, trade, war and culture. As our times demonstrate, facts matter.
+2. You will learn terminology \(i.e. the language used by professional historians\) and different ways \(i.e. methodologies\) to think about the past and to understand how people, institutions, forms of power and belief systems worked in the past. A key part of thinking critically about the Middle Ages \(which is what methodologies can help you do\) is understanding how modern myths about the time period arose and why they are reproduced uncritically in modern culture. 
 3. You will learn how to read and interpret evidence. 
 4. You will learn the limitations of evidence \(and thus our knowledge\) of the Middle Ages. Being a medieval historian means that you have to come to terms with ambiguity and not always have a clear answer. 
-5. You will learn how to work independently and as a group, using digital tools to plan and execute written assignments.
+5. You will learn how to work independently and as a group, using digital tools to plan and execute written assignments. You will learn tools to manage your time and manage your work flow, like [toggl](https://www.toggl.com/features/) or [tasks](https://tasks.office.com).
 6. By working in digital environments, you can begin to craft a digital identity which reflects a professional you – its a good way to make the university-you rise up the google rankings \(to hide your embarrassing posts on someone's tumblr feed...\).  
 
 {% hint style="info" %}

@@ -74,6 +74,12 @@ Key theme: What are the rhetorical structures and argumentative uses of History
 3. The Middle Ages in Film
 4. The MIddle Ages in Board Games
 5. The Middle Ages in Video Games
+6. the middle ages in the news
+7. the middle ages on social media
+
+
+
+
 
 
 

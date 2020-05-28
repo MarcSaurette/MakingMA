@@ -71,6 +71,7 @@ Key theme: What are the rhetorical structures and argumentative uses of History
    1. Geoffrey of Monmouth
 2. The Renaissance Creation of the Dark Ages 
 3. The Romantic Embrace of the Middle Ages and Nationalism's use of the Medieval Past
+   1. different groups of students read about German, UK and American experience \(make short presentation\)
 
 #### Popular Representations
 

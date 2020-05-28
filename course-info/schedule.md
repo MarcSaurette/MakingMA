@@ -24,6 +24,7 @@ I'll post an overview schedule for the course here. Obviously, this is still in 
 
 1. What is Evidence? Primary Sources vs. Secondary Sources. What is Data?
    1. How do we work with sources
+      1. limits on our access to sources
    2. terminology with examples of document vs. book, novel vs. monograph, edited collection, journal \(and how this impacts how you can search for things on library catalogue\). 
 2. What is Research? How to use library and online resources. 
    1. A better way than google

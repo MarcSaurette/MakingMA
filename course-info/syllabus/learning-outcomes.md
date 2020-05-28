@@ -2,7 +2,7 @@
 
 ### What are Learning Outcomes?
 
-We want you to learn how to _read_, how to _write_, how to _research_ and most importantly how to _think_ like a historian.
+We want you to learn how to _read_, how to _write_, how to _research_ and most importantly how to _think_ like a historian. With a focus on the Middle Ages, this course will generally answer the question, "What is History".
 
 As your professor, I want to be clear about what you will learn \(or what I want you to learn if all goes well\) by the end of the year. I think **a lot** about what I want my students to learn so that they \(i.e. you\) can make progress in becoming a historian. 
 

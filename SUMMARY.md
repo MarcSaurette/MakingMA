@@ -1,6 +1,6 @@
 # Table of contents
 
-* [FYSM 1405: The Making of the Middle Ages](README.md)
+* [FYSM 1405D: The Making of the Middle Ages](README.md)
 
 ## Course Information <a id="course-info"></a>
 
@@ -12,4 +12,5 @@
   * [Assessment](course-info/syllabus/assessment.md)
 * [Schedule](course-info/schedule.md)
 * [What to incorporate as we go forward](course-info/what-to-incorporate-as-we-go-forward.md)
+* [Readings & Resources](readings-and-resources.md)
 

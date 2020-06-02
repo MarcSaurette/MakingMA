@@ -12,13 +12,21 @@ I'll post an overview schedule for the course here. Obviously, this is still in 
    1. Using Teams and other tools
    2. Intro. 
    3. logging in to cuPortfolio and putting together a profile. 
+      1. i.e. Domain of one's own
+      2. \(optional\) You could also use HCommons if you want to take it further?
 2. What is the Middle Ages, to you? When is the Middle Ages?
    1. Defining our preconceptions
    2. Defining a timeline. Defining Time. 
    3. Periodization.
+   4. TimelineJS?
+      1. I pre-Prepare a Timeline with major events of Global Middle Ages?
+      2. Get students to put together a timeline of key events?
 3. Where is the Middle Ages? Understanding the idea of the Global Middle Ages
    1. Space as a Historical concept.
    2. Nation vs. _natio_
+   3. _StoryMap?_
+      1. Prepare StoryMap to show its versatility
+      2. Allow it to show movement \(MarcoPolo?, **Black Death**\)
 
 #### Fundamentals \(weeks 4-5\)
 
@@ -26,8 +34,11 @@ I'll post an overview schedule for the course here. Obviously, this is still in 
    1. How do we work with sources
       1. limits on our access to sources
    2. terminology with examples of document vs. book, novel vs. monograph, edited collection, journal \(and how this impacts how you can search for things on library catalogue\). 
+   3. Why are footnotes important? Why Chicago style? What is an ISBN?
 2. What is Research? How to use library and online resources. 
-   1. A better way than google
+   1. M.R. James short story?
+   2. Louise Craven's essay ["From the Archivist's Cardigan to the Very Dead Sheep"](http://books.google.com/books?id=d_UMW8oj1w8C&pg=PA7&lpg=PA7&dq=%22From+the+Archivist%27s+Cardigan+to+the+Very+Dead+Sheep:+What+Are+Archives?+What+Are+Archivists?+What+Do+They+Do?%22&source=bl&ots=NeHxCAgDsc&sig=Tj8XbDpLB6hHb2wFv3gZDO4eg-A&hl=en&sa=X&ei=7KhdUraHKY7K9gSV04HgCw&ved=0CDYQ6AEwAQ#v=onepage&q=%22From%20the%20Archivist%27s%20Cardigan%20to%20the%20Very%20Dead%20Sheep%3A%20What%20Are%20Archives%3F%20What%20Are%20Archivists%3F%20What%20Do%20They%20Do%3F%22&f=false)
+   3. A better way than google
 
       a.    What do librarians do?
 
@@ -37,47 +48,77 @@ I'll post an overview schedule for the course here. Obviously, this is still in 
 
       d.    Book Arts Lab, Discovery Centre, ARC
 
-   2. Writing Support - Writing labs
+   4. Writing Support at Carleton - Writing labs
 
-#### Medieval Evidence \(weeks 7-12\)
+#### Medieval Evidence \(weeks 6-10\)
 
 Key Themes: 
 
 * How different kinds of evidence give us different \(and incomplete\) answers
 
 1. Architecture & Art \(comparative?\)
+   1. Buildings are how people "see" the Middle Ages - as tourists, etc. \(But also key part of the interest in medievalism/ Gothic Revival in 19th century\)
+      1. Importance of architecture for setting in novel, film and video games
+      2. Discussion around Assassins Quest' Notre Dame at time of 2019? fire
+   2. understanding architectural schematics
+      1. Plan of St. Gall vs. Victorian Architectural Diagrams?
+      2. Reconstructions?
+   3. sacred space in Benedictine Monasteries and Shinto Temples?
 2. Archaeology \(Botony, Genomics & Black Death\)
+   1. [medieval matters podcast](https://podcasts.apple.com/us/podcast/medieval-matters-why-bones-matter/id385643787?i=1000313392374) \(Why Bones Matter\)
+   2. BDeath progress. 
 3. Written Sources: Medieval Manuscripts
-   1. What are manuscripts
+   1. What are manuscripts 
+      1. focus on Bible and Glossa Ordinaria to give sense of how structured, development of finding aids, punctuation \(spaces between words\)
    2. collection patterns, survival rates and the such.
-   3. Understanding the Codex
-4. Codicology: Supports, Writing Instruments, Inks, Binding
-5. Palaeography, Abbreviations, Punctuation
-   1. link of unicode, questions marks, emoji
-6. Editions and Translations
+   3. **How to read / write MS catalogue description**
+   4. Understanding the Codex
+   5. Codicology: Supports, Writing Instruments, Inks, Binding
+4. Palaeography, Abbreviations, Punctuation
+   1. Why do typical forms of writing \(scripts\) appear...
+   2. link of unicode, questions marks, emoji
+   3. transcription exercise \(which leads to next week\)
+      1. HMML tutorials?
+5. Editions and Translations
    1. What is an edition
-   2. John Rhykenor \(Karras article\)
+   2. What changes in a translation - **compare Middle English to updated version**? 
+   3. Annotating edition/ translation for terminology and understanding what the parts of the apparatus are. 
+   4. John Rhykenor \(Karras article\)
 
-#### Genres
+#### Genres \(11-15\)
 
-1. Law
-2. Vita
-3. Letters
-4. 
+Romance? covered during Palaeography/ Edition weeks?
+
+1. Letters: 
+   1. Private vs. Public letters
+   2. Epistolary Rhetoric
+   3. Epistolae
+   4. Constable: "On Medieval Letters"
+   5. fold your own medieval envelope exercise
+2. Lives: 
+   1. Saint Guinefort? Apophthegmata Patrum \(to show didactic purpose in short extracts?\) Liber Pontificis? Gesta Episcoporum?
+3. Law: 
+   1. Oral vs. Written Law
+   2. Canon Law \(on Sex\)
+   3. Charters
+4. History: Geoffrey of Monmouth?
+   1. Cyclical nature of History
+
 #### A History of History, of the Middle Ages
 
 Key theme: What are the rhetorical structures and argumentative uses of History
 
-1. History in the Middle Ages
-   1. Geoffrey of Monmouth
-2. The Renaissance Creation of the Dark Ages 
-3. The Romantic Embrace of the Middle Ages and Nationalism's use of the Medieval Past
+1. The Renaissance Creation of the Dark Ages 
+2. The Romantic Embrace of the Middle Ages and Nationalism's use of the Medieval Past
    1. different groups of students read about German, UK and American experience \(make short presentation\)
 
 #### Popular Representations
 
 1. The Middle Ages in Fiction
    1. Sir Walter Scott
+   2. Ghost Stories and Antiquarianism: M.R. James
+   3. Non-Western Fantasy? 
+   4. Interview of Bruce Holsinger with Michael McKeon: [https://www.coursera.org/lecture/historical-fiction/michael-mckeon-and-bruce-holsinger-discuss-what-it-meant-to-be-writing-wDuZK](https://www.coursera.org/lecture/historical-fiction/michael-mckeon-and-bruce-holsinger-discuss-what-it-meant-to-be-writing-wDuZK)
 2. The Middle Ages in Modern Architecture
    1. Gothic Revival
 3. The Middle Ages in Film
@@ -86,7 +127,7 @@ Key theme: What are the rhetorical structures and argumentative uses of History
 
 #### Finale
 
-1. Presentation of the Final Project
+1. Presentation of the Final Project?
 
 ### In person activities \(now not possible?\)
 
@@ -103,7 +144,4 @@ Key theme: What are the rhetorical structures and argumentative uses of History
    a.    Wood cuts?
 
    b.    Typeset a page of a medieval text
-
-10. Translations
-11. Genres.
 

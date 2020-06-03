@@ -8,10 +8,10 @@ In the German model \(which was the model for British/Canadian/American/French u
 
 But this elite \(elitest?\) definition of seminar belies its medieval roots. In the Classical world, if you talked about a _seminarium_, you would be referring to a "nursery" for plants. In the Middle Ages, however, a _seminarium_ was a place where people began their studies, usually in the Church – the medieval metaphor being that young minds needed to be watered and cared for until they are established enough to thrive on their own. This is from where we get the modern English term, "seminary" \(i.e. a place where priests learn\). 
 
-In this class, we think of the seminar in this more medieval fashion \(though I am definitely not training you to be priests...\).  Today, the seminar is less research focussed than it was in the ninteenth-century, but we still imagine that small group as the best environment for letting students grow and thrive intellectually.
+In this class, we think of the seminar in this more medieval fashion \(though I am definitely not training you to be priests...\).  Today, the seminar is less research focussed than it was in the nineteenth century, but professors still imagine that small group as the best environment for letting students grow and thrive intellectually.
 
 {% hint style="info" %}
-Usually, first-year seminars take place in the setting of a small classroom where we all get to know each other quickly by sheer proximity. The current global pandemic has – well – made that impossible. Instead we will push the boundaries of what a 21st century seminar can be.
+Usually, first-year seminars take place in the setting of a small classroom where we all get to know each other quickly by sheer proximity. The current global pandemic has – well – made that impossible. Instead we will test the boundaries of what a 21st century seminar can be.
 
 I'm setting this site up and other digital resources as a way to organize aspects of our class so that we can have the same small group learning experience, despite the distance. 
 {% endhint %}

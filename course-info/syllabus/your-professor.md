@@ -1,6 +1,6 @@
-# Your Professor
+# Your Professor, Marc
 
-Hi! I'm Dr. \(Marc\) Saurette! Or at least an digital facsimile of me.... I want to introduce myself here. 
+Hi! I'm \( Dr.\) Marc Saurette! Or at least an digital facsimile of me.... I want to introduce myself here. 
 
 My purpose \(as the professor\) is to act as your contact person, academic guide and tutor \(as well as a medieval specialist\). I will teach you content \(i.e. facts about the past\), but also I will help you to figure out how to go about being a university student, especially when these days we're experimenting with what "being a university student" means. 
 

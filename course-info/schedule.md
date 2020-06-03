@@ -22,9 +22,10 @@ I'll post an overview schedule for the course here. Obviously, this is still in 
       1. I pre-Prepare a Timeline with major events of Global Middle Ages?
       2. Get students to put together a timeline of key events?
 3. Where is the Middle Ages? Understanding the idea of the Global Middle Ages
-   1. Space as a Historical concept.
-   2. Nation vs. _natio_
-   3. _StoryMap?_
+   1. Space as a Historical concept. 
+   2. Understanding Maps exercise
+   3. Nation vs. _natio_
+   4. _StoryMap?_
       1. Prepare StoryMap to show its versatility
       2. Allow it to show movement \(MarcoPolo?, **Black Death**\)
 
@@ -79,13 +80,14 @@ Key Themes:
    2. link of unicode, questions marks, emoji
    3. transcription exercise \(which leads to next week\)
       1. HMML tutorials?
+      2. Using ARC/CUAG Folios...
 5. Editions and Translations
    1. What is an edition
    2. What changes in a translation - **compare Middle English to updated version**? 
    3. Annotating edition/ translation for terminology and understanding what the parts of the apparatus are. 
    4. John Rhykenor \(Karras article\)
 
-#### Genres \(11-15\)
+#### Genres \(11-14\)
 
 Romance? covered during Palaeography/ Edition weeks?
 
@@ -104,15 +106,16 @@ Romance? covered during Palaeography/ Edition weeks?
 4. History: Geoffrey of Monmouth?
    1. Cyclical nature of History
 
-#### A History of History, of the Middle Ages
+#### A History of History, of the Middle Ages \(15-17\)
 
 Key theme: What are the rhetorical structures and argumentative uses of History
 
 1. The Renaissance Creation of the Dark Ages 
-2. The Romantic Embrace of the Middle Ages and Nationalism's use of the Medieval Past
+2. The Romantic Re-imaginings and Embrace of the Middle Ages
+3.  Nationalism's use of the Medieval Past
    1. different groups of students read about German, UK and American experience \(make short presentation\)
 
-#### Popular Representations
+#### Popular Representations \(18-23\)
 
 1. The Middle Ages in Fiction
    1. Sir Walter Scott
@@ -123,9 +126,11 @@ Key theme: What are the rhetorical structures and argumentative uses of History
    1. Gothic Revival
 3. The Middle Ages in Film
 4. The MIddle Ages in Games
-5. The Middle Ages in the news and social media
+5. The Middle Ages in the news, advertising and social media
+   1. Class exercise: everyone finds a "medieval" add/ social media post
+   2. Using LexusNexus?
 
-#### Finale
+#### Finale \(24\)
 
 1. Presentation of the Final Project?
 

@@ -16,6 +16,7 @@
   * [How much time do I spend...](course-info/syllabus/how-much-time-do-i-spend....md)
   * [Assessment](course-info/syllabus/assessment.md)
 * [Schedule](course-info/schedule.md)
+* [Game-Based Learning](course-info/game-based-learning.md)
 * [What to do as we go forward](course-info/what-to-incorporate-as-we-go-forward.md)
 * [Readings & Resources](course-info/readings-and-resources/README.md)
   * [How to Read for Class](course-info/readings-and-resources/how-to-read-for-class.md)

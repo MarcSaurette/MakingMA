@@ -8,7 +8,7 @@ I'll post an overview schedule for the course here. Obviously, this is still in 
 
 #### Prologue \(weeks 1-3\)
 
-1. Meet and Greet! Icebreakers! \(Recorded message?\)
+1. Sept. Meet and Greet! Icebreakers! \(Recorded message?\) 
    1. Using Teams and other tools
    2. Intro. 
    3. logging in to cuPortfolio and putting together a profile. 

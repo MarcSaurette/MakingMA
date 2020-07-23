@@ -16,7 +16,7 @@ In this class I want to take this process of re-imagining yourself a step furthe
 
 ![An alternate Ottawa, with &quot;The Academy&quot; near its centre.](../.gitbook/assets/the-academy-ottawa.png)
 
-As the term nears, I will begin posting more information about the game, including a player handbook, and some initial suggestions for your play. In the meantime, here is a map of the Academy you will be joining in September. 
+As the term nears, I will begin posting more information about the game, including a player handbook and some initial suggestions for your play. In the meantime, here is a map of the Academy you will be joining in September. 
 
 ![The Academy, depicted with modern scientifico-aesthetic accuracy. ](../.gitbook/assets/the-academy-with-numbers-and-legend-.pdf)
 

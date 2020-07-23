@@ -1,3 +1,9 @@
+---
+description: >-
+  An initial word on how and why we will incorporate games into our class this
+  year.
+---
+
 # Game-Based Learning
 
 {% hint style="danger" %}

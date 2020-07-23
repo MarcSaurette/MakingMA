@@ -12,7 +12,7 @@ More coming soon at the beginning of term.
 
 Games can be fun, but they can also be serious. But whether playing in earnest or not, games teach you lots. You learn the rules, how to use the rules to win \(usually\), and you learn to imagine yourself in the world of the game. In this class, I hope to make use of games to lighten the mood of \(presumably\) one of your first university classes, but also to encourage real learning. 
 
-In the first semester, part of the class work will be linked to a semester-long game \(part role-playing game, part augmented reality game\), where we imagine ourselves as schoolmasters and novice students at a venerable "Academy" in a parallel world. In the second semester, we will use that experience to create a new game \(games?\), which is/are related to medieval themes. 
+In the first semester, part of the class work will be linked to a semester-long co-operative game \(part role-playing game, part augmented reality game\), where we imagine ourselves as schoolmasters and novice students at a venerable "Academy" in a parallel world. In the second semester, we will use that experience to create a new game \(games?\), which is/are related to medieval themes. 
 
 ### Why Games?
 
@@ -27,6 +27,6 @@ As the term nears, I will begin posting more information about the game, includi
 ![The Academy, depicted with modern scientifico-aesthetic accuracy. ](../.gitbook/assets/the-academy-with-numbers-and-legend-.pdf)
 
 {% hint style="info" %}
-I am designing this game with the idea that different students will have more or less experience with playing medieval-themed games and more or less knowledge of the Middle Ages than others. But, we are designing the class/ this game in such a way that you can contribute in different ways. You can be as ludic \(synonym for "playful"\) as you want, or you can be as traditionally academic as you want. There is no way I want to force you to do something you don't want to.
+I am designing a co-operative game with the idea that each student will have more or less experience with playing medieval-themed games and more or less knowledge of the Middle Ages than others. But, we are designing the class/ this game in such a way that you can contribute in your own \(non-competitive!\) ways. You can be as ludic \(synonym for "playful"\) as you want, or more traditionally academic. There is no way I want to force you to do something you don't want to.
 {% endhint %}
 

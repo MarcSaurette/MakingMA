@@ -20,11 +20,11 @@ Keep in mind this is time averaged over the term. Some weeks you may spend less 
 
 * talking to the professor. You will at times want or need more explanation on an assignment, readings or task they you don't understand. Talking with the professor is the best option for this - usually meetings last about a 1/2 hour to address a relatively straightfoward topic. 
 * talking to classmates. You might need to spend some time co-ordinating with students about assignments or group work. Or you might want to just talk to them...
-* going down research rabbit holes. Whether a student or professor, historians can get distracted by super-interesting but totally irrelevent research. Among professional historians it is not uncommon for someone to spend a day working on one footnote \(I don't recommend this!\) You might discover you become fascinated by medieval brewing techniques while researching something on Benedictine monks. 
+* going down research rabbit holes. Whether a student or professor, historians can get distracted by super-interesting but totally irrelevent research. Among professional historians it is not uncommon for someone to spend a day working on one footnote \(I don't recommend this!\). You might discover you become fascinated by medieval brewing techniques while researching something on Benedictine monks. 
 
-If you want to track your time
+If you want to track your time:
 
-* you can simply set an alarm to go off every 15 minutes, and you keep a list of what you were working on during that time \(class A readings, project X, goofing off, eating ...\)
+* you can simply set an alarm to go off every 15 minutes, and you keep a paper list of what you were working on during that time \(class A readings, project X, goofing off, eating ...\)
 * you can do the same thing with apps. You can sign up for free for a barebones timetracker app like [Toggl](https://www.toggl.com) or gamified fantasy-based versions like [Habitica](https://habitica.com/static/home), [Bounty Tasker](https://apps.apple.com/us/app/bounty-tasker-gamify-your-tasks-and-to-do-list/id1229566216?ls=1) and [Productivity Challenge](https://apps.apple.com/us/app/productivity-challenge-timer/id1117766356). 
 
 {% hint style="info" %}

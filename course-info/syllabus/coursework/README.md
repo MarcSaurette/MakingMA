@@ -11,20 +11,16 @@ So, let's get this out in the open. Participation is always difficult to assess.
 For online lectures, I will take attendence through the polling mechanism and, at the end of the class, will request that you assign yourself a mark of 5 for the quality of your participation. At the end of the term, you will write up a process letter explaining the quality of your participation, part of which will be to assess your contributions to class discussion.
 {% endtab %}
 
+{% tab title="Profile" %}
+The first thing you'll need to do will be creating a profile of yourself on [cuLearn](../../digital-tools/culearn.md) to introduce yourself to your fellow classmates. This first profile can be a barebones "Who am I". You will also be asked to create a second profile later on - a description of your character, who is attending "[The Academy](../../game-based-learning.md)". You will use your character sheet to keep track of your developing Medievalist skills and the game elements \(such as the clues you have discovered about the nefarious cabal of Pseudo-Medievalists\). 
+{% endtab %}
+
 {% tab title="Reflections" %}
-At the beginning of term you need to put together an online profile to introduce yourself to your fellow students \(so you need to reflect a bit about who you are\). You will also write a number of short "reflection" pieces \([explained here](reflections.md)\) that will ask you to think \(and write\) about your understanding of the Middle Ages, the course and your participation. 
+The key to academic success is practice – especially practicing writing. Writing is hard for everyone, especially when a genre is unfamiliar or the expectations are unclear. I'll try to make the expectations clear and over time the expected norms of  writing will become familiar to you.
 
-At the beginning and the end of the first term, students will be asked to consider and reconsider their attitudes to the Middle Ages. Guiding questions will be given for the first and last reflection papers. In the middle of the term, students will be asked to discuss the experience of receiving and providing peer evaluation. For example, the first critical reflection addresses the following topic:
+Above all I just want you to get used to writing without worrying to much about being perfect at it. Most weeks you will need to write a "reflection". This is a catch-all term I'm giving to a weekly writing assignments that asks you to "reflect" on \(or think about or meditate on\) the learning you accomplished that week. At the beginning of the year, I will distribute a list of topics intended to help you focus your writing \(which you get to choose from\). 
 
-**Reflection no. 1.** What are the Middle Ages, to you?
-
-Answer all, some or part of one or more of the following questions:
-
-* What does “Medieval” or “Middle Ages” mean to you?
-* What do you know about the Middle Ages?
-* What experience have you had with the Middle Ages?
-* What do you hope to learn by the conclusion of this class?
-* Where do you get your Middle Ages from?
+I am asking you to write these reflections not as yourself \(IRL\) but as your character at "The Academy". They can be as creative as you choose: a letter home, an entry from your diary, a page of notes from your Academy classes, a photo of your recreated "dorm room" bulletin board...
 {% endtab %}
 
 {% tab title="Analysis" %}
@@ -38,7 +34,7 @@ Students will produce two different, but linked papers, showing their ability to
 As the names suggest, each student will first write up their critical readings of a primary source document \([assignment explained here]()\) which they have chosen to explore as a final draft. They will then receive feedback from the professor/ teaching assistant as well as their peers. And finally, they will rewrite the paper after they have incorporated comments and done additional research. 
 {% endtab %}
 
-{% tab title="Peer Feedback" %}
+{% tab title="Feedback" %}
  You will be asked to provide constructive criticism to written work completed by your peers \([expectations set out here]()\). We'll use the notation tool [hypothes.is]() to make comments on each other's work. 
 {% endtab %}
 

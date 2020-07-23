@@ -68,3 +68,7 @@
 * [Games](popular-representations/games.md)
 * [Media](popular-representations/media.md)
 
+## Epilogue
+
+* [The Finale](epilogue/the-finale.md)
+

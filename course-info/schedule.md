@@ -11,7 +11,8 @@ I'll post an overview schedule for the course here. Obviously, this is still in 
 1. Sept. Meet and Greet! Icebreakers! \(Recorded message?\) 
    1. Using Teams and other tools
    2. Intro. 
-   3. logging in to cuPortfolio and putting together a profile. 
+   3. Introduce the Academy. 
+   4. logging in to cuPortfolio and putting together a profile. 
       1. i.e. Domain of one's own
       2. \(optional\) You could also use HCommons if you want to take it further?
 2. What is the Middle Ages, to you? When is the Middle Ages?

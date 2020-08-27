@@ -41,7 +41,7 @@
 * [Research](fundamentals/research.md)
 * [Intermission](fundamentals/intermission.md)
 
-## Rise of the Medieval <a id="history-of-history"></a>
+## Quest for the Middle Ages <a id="history-of-history"></a>
 
 * [The Myth of the "Dark Ages"](history-of-history/the-myth-of-the-dark-ages.md)
 * [Romanticism, Gothicism and the Novelization of the Middle Ages](history-of-history/romantic-re-imaginings.md)
@@ -49,6 +49,7 @@
 * [Nationalism and Medieval Studies in the Academy](history-of-history/nationalism-and-medieval-studies-in-the-academy.md)
 * [Nationalism and the Medieval Film](history-of-history/nationalism-and-the-medieval-film.md)
 * [The Middle Ages in the Media](history-of-history/the-middle-ages-in-the-media.md)
+* [The Middle Ages in Games](history-of-history/the-middle-ages-in-games.md)
 
 ## Term I Epilogue <a id="epilogue"></a>
 

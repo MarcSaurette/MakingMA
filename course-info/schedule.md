@@ -20,33 +20,55 @@ I'll post an overview schedule for the course here. Obviously, this is still in 
 
 #### V. [Research](../fundamentals/research.md)
 
-#### VI. Intermission
+#### VI. [Intermission](../fundamentals/intermission.md)
 
 ### The Rise of the Medieval \(weeks 7-12\)
 
-#### VII. The Myth of the Dark Ages
+#### VII. [The Myth of the Dark Ages](../history-of-history/the-myth-of-the-dark-ages.md)
 
-#### VIII. Romanticism, Gothicism and the Novelization of the Middle Ages
+#### VIII. [Romanticism, Gothicism and the Novelization of the Middle Ages](../history-of-history/nationalist-appropriations.md)
 
-#### IX. Gothic Revival Architecture as National Style
+#### IX. [Gothic Revival Architecture as National Style](../history-of-history/nationalist-appropriations.md)
 
-#### X. Nationalism and Medieval Studies in the Academy
+#### X. [Nationalism and Medieval Studies in the Academy](../history-of-history/nationalism-and-medieval-studies-in-the-academy.md)
 
-#### XI. Nationalism and the Medieval Film
+#### XI. [Nationalism and the Medieval Film](../history-of-history/nationalism-and-the-medieval-film.md)
 
-#### XII. National and the Media
+#### XII. [The Middle Ages in the Media](../history-of-history/the-middle-ages-in-the-media.md)
 
-#### XIIb. The Finale
+#### XIIb. [The Finale](../epilogue/the-finale.md)
 
 ## Term II - Evidence of the Middle Ages
 
-I. The Middle Ages in Games. 
+#### I. The Middle Ages in Games. 
 
 ### Understanding Evidence
 
 #### II. Art and Architecture
 
-#### III. 
+#### III. Archaeology
+
+#### IV. Using Manuscripts
+
+#### V. Reading Medieval Scripts
+
+#### VI. Marginalia
+
+#### VII. Using Editions and Translations
+
+### Genres
+
+#### VIII. Letters
+
+#### IX. Lives
+
+#### X. Laws
+
+#### XI. History
+
+### Epilogue
+
+#### XII. The Finale
 
 
 
@@ -55,6 +77,8 @@ I. The Middle Ages in Games.
 
 
 
+
+## Preliminary Planning Info \(ignore\)
 
 1. Using Teams and other tools
 2. Intro. 

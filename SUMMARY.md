@@ -40,6 +40,12 @@
 * [Evidence](fundamentals/evidence.md)
 * [Research](fundamentals/research.md)
 
+## History of History
+
+* [The Myth of the "Dark Ages"](history-of-history/the-myth-of-the-dark-ages.md)
+* [Romantic Re-imaginings](history-of-history/romantic-re-imaginings.md)
+* [Nationalist Appropriations](history-of-history/nationalist-appropriations.md)
+
 ## Medieval Evidence
 
 * [Art & Architecture](medieval-evidence/art-and-architecture.md)
@@ -55,21 +61,7 @@
 * [Law](medieval-sources/law.md)
 * [History](medieval-sources/history.md)
 
-## History of History
-
-* [The Myth of the "Dark Ages"](history-of-history/the-myth-of-the-dark-ages.md)
-* [Romantic Re-imaginings](history-of-history/romantic-re-imaginings.md)
-* [Nationalist Appropriations](history-of-history/nationalist-appropriations.md)
-
-## Popular Representations
-
-* [Fiction](popular-representations/fiction.md)
-* [Modern Architecture](popular-representations/modern-architecture.md)
-* [Film](popular-representations/untitled.md)
-* [Games](popular-representations/games.md)
-* [Media](popular-representations/media.md)
-
-## Epilogue
+## Term I Epilogue <a id="epilogue"></a>
 
 * [The Finale](epilogue/the-finale.md)
 

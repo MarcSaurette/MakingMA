@@ -6,10 +6,6 @@ description: >-
 
 # Game-Based Learning
 
-{% hint style="danger" %}
-More coming soon at the beginning of term. 
-{% endhint %}
-
 Games can be fun, but they can also be serious. But whether playing in earnest or not, games teach you lots. You learn the rules, how to use the rules to win \(usually\), and you learn to imagine yourself in the world of the game. In this class, I hope to make use of games to lighten the mood of \(presumably\) one of your first university classes, but also to encourage real learning. 
 
 In the first semester, part of the class work will be linked to a semester-long co-operative game \(part role-playing game, part augmented reality game\), where we imagine ourselves as schoolmasters and novice students at a venerable "Academy" in a parallel world. In the second semester, we will use that experience to create a new game \(games?\), which is/are related to medieval themes. 

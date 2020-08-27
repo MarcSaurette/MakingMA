@@ -31,7 +31,7 @@
 
 ## Prologue
 
-* [Welcome!](prologue/welcome.md)
+* [Orientation](prologue/welcome.md)
 * [When is the Middle Ages?](prologue/when-is-the-middle-ages.md)
 * [Where is the Middle Ages?](prologue/where-is-the-middle-ages.md)
 
@@ -39,12 +39,20 @@
 
 * [Evidence](fundamentals/evidence.md)
 * [Research](fundamentals/research.md)
+* [Intermission](fundamentals/intermission.md)
 
-## History of History
+## Rise of the Medieval <a id="history-of-history"></a>
 
 * [The Myth of the "Dark Ages"](history-of-history/the-myth-of-the-dark-ages.md)
-* [Romantic Re-imaginings](history-of-history/romantic-re-imaginings.md)
-* [Nationalist Appropriations](history-of-history/nationalist-appropriations.md)
+* [Romanticism, Gothicism and the Novelization of the Middle Ages](history-of-history/romantic-re-imaginings.md)
+* [Gothic Revival Architecture as National Style](history-of-history/nationalist-appropriations.md)
+* [Nationalism and Medieval Studies in the Academy](history-of-history/nationalism-and-medieval-studies-in-the-academy.md)
+* [Nationalism and the Medieval Film](history-of-history/nationalism-and-the-medieval-film.md)
+* [The Middle Ages in the Media](history-of-history/the-middle-ages-in-the-media.md)
+
+## Term I Epilogue <a id="epilogue"></a>
+
+* [The Finale](epilogue/the-finale.md)
 
 ## Medieval Evidence
 
@@ -60,8 +68,4 @@
 * [Lives](medieval-sources/lives.md)
 * [Law](medieval-sources/law.md)
 * [History](medieval-sources/history.md)
-
-## Term I Epilogue <a id="epilogue"></a>
-
-* [The Finale](epilogue/the-finale.md)
 

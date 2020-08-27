@@ -1,2 +1,2 @@
-# Nationalist Appropriations
+# Gothic Revival Architecture as National Style
 

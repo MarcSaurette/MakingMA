@@ -1,4 +1,4 @@
-# Welcome!
+# Orientation
 
 ### Goals for this week
 

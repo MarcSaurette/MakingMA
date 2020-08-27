@@ -4,25 +4,72 @@
 I'll post an overview schedule for the course here. Obviously, this is still in progress. 
 {% endhint %}
 
-### Learning Modules
+## Term I - Quest for the Middle Ages
 
-#### Prologue \(weeks 1-3\)
+### Prologue \(weeks 1-3\)
 
-1. Sept. Meet and Greet! Icebreakers! \(Recorded message?\) 
-   1. Using Teams and other tools
-   2. Intro. 
-   3. Introduce the Academy. 
-   4. logging in to cuPortfolio and putting together a profile. 
-      1. i.e. Domain of one's own
-      2. \(optional\) You could also use HCommons if you want to take it further?
-2. What is the Middle Ages, to you? When is the Middle Ages?
+#### I. [Orientation](../prologue/welcome.md)
+
+#### II. [When is the Middle Ages?](../prologue/when-is-the-middle-ages.md)
+
+#### III. [Where is the Middle Ages?](../prologue/where-is-the-middle-ages.md)
+
+### Fundamentals \(weeks 4-6\)
+
+#### IV. [Evidence](../fundamentals/evidence.md)
+
+#### V. [Research](../fundamentals/research.md)
+
+#### VI. Intermission
+
+### The Rise of the Medieval \(weeks 7-12\)
+
+#### VII. The Myth of the Dark Ages
+
+#### VIII. Romanticism, Gothicism and the Novelization of the Middle Ages
+
+#### IX. Gothic Revival Architecture as National Style
+
+#### X. Nationalism and Medieval Studies in the Academy
+
+#### XI. Nationalism and the Medieval Film
+
+#### XII. National and the Media
+
+#### XIIb. The Finale
+
+## Term II - Evidence of the Middle Ages
+
+I. The Middle Ages in Games. 
+
+### Understanding Evidence
+
+#### II. Art and Architecture
+
+#### III. 
+
+
+
+
+
+
+
+
+
+1. Using Teams and other tools
+2. Intro. 
+3. Introduce the Academy. 
+4. logging in to cuPortfolio and putting together a profile. 
+   1. i.e. Domain of one's own
+   2. \(optional\) You could also use HCommons if you want to take it further?
+5. What is the Middle Ages, to you? When is the Middle Ages?
    1. Defining our preconceptions
    2. Defining a timeline. Defining Time. 
    3. Periodization.
    4. TimelineJS?
       1. I pre-Prepare a Timeline with major events of Global Middle Ages?
       2. Get students to put together a timeline of key events?
-3. Where is the Middle Ages? Understanding the idea of the Global Middle Ages
+6. Where is the Middle Ages? Understanding the idea of the Global Middle Ages
    1. Space as a Historical concept. 
    2. Understanding Maps exercise
    3. Nation vs. _natio_

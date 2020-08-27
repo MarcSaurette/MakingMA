@@ -61,6 +61,7 @@
 * [Archaeology](medieval-evidence/archaeology.md)
 * [Using Manuscripts](medieval-evidence/using-manuscripts.md)
 * [Reading Medieval Scripts](medieval-evidence/reading-medieval-scripts.md)
+* [Marginalia](medieval-evidence/marginalia.md)
 * [Using Editions & Translations](medieval-evidence/using-editions-and-translations.md)
 
 ## Medieval Sources

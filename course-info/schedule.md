@@ -50,6 +50,8 @@ I'll post an overview schedule for the course here. Obviously, this is still in 
 
 #### III. Archaeology
 
+* Listen to: Robin Fleming's "[Why Bones Matter](https://podcasts.apple.com/us/podcast/medieval-matters-why-bones-matter/id385643787?i=1000313392374)"
+
 #### IV. Using Manuscripts
 
 #### V. Reading Medieval Scripts

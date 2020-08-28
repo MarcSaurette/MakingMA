@@ -46,6 +46,8 @@ I'll post an overview schedule for the course here. Obviously, this is still in 
 
 #### II. Art and Architecture
 
+* Read: _Experiencing Medieval Art_
+
 #### III. Archaeology
 
 #### IV. Using Manuscripts

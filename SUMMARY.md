@@ -17,6 +17,7 @@
     * [Classwork](course-info/syllabus/coursework/assignments.md)
     * [Reflections](course-info/syllabus/coursework/reflections.md)
     * [Process Letters](course-info/syllabus/coursework/process-letters.md)
+  * [Deadlines](course-info/syllabus/deadlines.md)
   * [Classroom Exercises](course-info/syllabus/classroom-exercises.md)
   * [How much time do I spend...](course-info/syllabus/how-much-time-do-i-spend....md)
   * [Assessment](course-info/syllabus/assessment.md)

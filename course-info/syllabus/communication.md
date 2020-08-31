@@ -15,7 +15,7 @@ Communicating with one another is the key to a successful online class.
 Given the distance-learning component of this course, we will all need to be pro-active and intentional with our communications and interactions. This is particularly important not only since the course will be distance-learning, but also because we will have to use multiple different software platforms to interact.
 
 {% hint style="info" %}
-If you want to communicate with one another outside of class, I have created a Slack channel which you can join. I will not read messages there, I won't monitor it and am not responsible for any content that might be shared there. I have created it purely to allow for you have a private venue. Follow [https://join.slack.com/t/hist2000me/signup](https://join.slack.com/t/hist2000me/signup)
+If you want to communicate with one another outside of class, I have created a Slack channel which you can join. I will not read messages there, I won't monitor it and am not responsible for any content that might be shared there. I have created it purely to allow for you have a private venue. Join the [Slack team here](https://join.slack.com/t/themakingofth-9xj7609/shared_invite/zt-gz9ve08l-uXsMeht_jzHzAOByEDL8Ng). 
 {% endhint %}
 
 Although it probably will feel a bit overstructured, please read the following carefully. Knowing all of the avenues and opportunities for contact and communication – and maximizing the opportunities you have – will be crucial to making sure you have the best learning experience possible in this course.
@@ -26,7 +26,7 @@ Information about the process to request an extension/accommodation for reasons 
 
 #### **Basic Course Information** 
 
-1. The static website on [gitbook.com](https://marc-saurette.gitbook.io/medieval-europe/) will be the main source of information on basic course information, including a detailed syllabus, schedule of readings, assignment descriptions, and topics under discussion, expectations etc. 
+1. The static website on [gitbook.com](https://app.gitbook.com/@marc-saurette/s/the-making-of-the-middle-ages/) will be the main source of information on basic course information, including a detailed syllabus, schedule of readings, assignment descriptions, and topics under discussion, expectations etc. 
 2. Our "The Making of the Middle Ages" group on MS Teams will provide a dynamic workspace for class announcements, discussions, as well as where our video conferences will be run. It will be a hub with links to the digital tools and readings we will be using in the course.  Note: you must be logged in to your Carleton cmail account to access [Teams](). 
 
 {% hint style="info" %}

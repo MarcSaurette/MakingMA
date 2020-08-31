@@ -2,7 +2,7 @@
 
 When learning in person, professors and students meet in class for lectures and to discuss readings, debate etc. Thus, some learning happens together at the same time, and some other learning happens on the student's own time \(e.g. writing papers, doing readings etc.\). When a course is online, this is also the case. We will have some time together \(on [MS Teams](../../digital-tools/teams.md)\), and sometimes learning happens "asynchronously" \(i.e. on our own time\). 
 
-Usually when I teach this course, I divide work into oral and written work. Oral work usually consists of "participation" i.e. being in class, asking questions, showing you've learned from doing the readings, etc \(an abbreviation of _et cetera_, Latin for "and other things"\). But participation, since we're taking this online, will be based on "conversations"/ discussions in the [Teams](../../digital-tools/teams.md) platform. Over the course of the first term, you will complete the following work – designed so that you build on skills you will have acquired earlier in the year. 
+Usually when I teach this course, I divide work into oral and written work. Oral work usually consists of "participation" i.e. being in class, asking questions, showing you've learned from doing the readings, etc \(an abbreviation of _et cetera_, Latin for "and other things"\). But participation, since we're taking this online, will be based on "conversations"/ discussions in the [Teams](../../digital-tools/teams.md) platform – it might be oral or it might be written. Over the course of the first term, you will complete the following work – designed so that you build on skills you will have acquired earlier in the year. 
 
 {% tabs %}
 {% tab title="Participation" %}

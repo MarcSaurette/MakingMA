@@ -5,7 +5,7 @@ description: >-
   (Ottawa, Ontario).
 ---
 
-# FYSM 1405D: the Middle Ages
+# FYSM 1405D: The Making of the Middle Ages
 
 If you’ve ever walked past Parliament in Ottawa, been to a nineteenth-century church, watched a King Arthur movie or played a hack-and-slash videogame, you already know that the Middle Ages has a life of its own in modern society. In this course, we will explore what it means to be “medieval”, we will learn how our understanding of this time period was formed, and we will explode many of today’s pervasive myths about the Middle Ages. Our goal is not only to understand what the Middle Ages were, but also to explain how and why we understand it the way that we do. 
 

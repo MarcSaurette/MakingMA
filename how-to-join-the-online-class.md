@@ -1,4 +1,4 @@
-# How to join the Online Class
+# How to join the online class
 
 Our classes are scheduled take place on Tuesday from 1130 until 230.  
 

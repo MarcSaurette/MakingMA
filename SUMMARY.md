@@ -1,7 +1,7 @@
 # Table of contents
 
-* [FYSM 1405D: the Middle Ages](README.md)
-* [How to join the Online Class](how-to-join-the-online-class.md)
+* [FYSM 1405D: The Making of the Middle Ages](README.md)
+* [How to join the online class](how-to-join-the-online-class.md)
 * [Pandemic Learning](pandemic-learning/README.md)
   * [Learning as a Mental Exercise](pandemic-learning/learning-as-a-mental-exercise.md)
 

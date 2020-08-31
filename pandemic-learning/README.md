@@ -1,12 +1,12 @@
 # Pandemic Learning
 
 {% hint style="info" %}
-This year especially, life might be difficult for you. We are going to have a harder time picking up on this since we're online. So, please, if you need some help \(in class, in life\) please reach out to us so we can do what we can or put you in contact with people who can. 
+This year, especially, life might be difficult for you. We are going to have a harder time picking up on this since we're distant and online. So, please, if you need some help \(in class, in life\) please reach out to me so I can do whatever I can or put you in contact with people who can help. 
 {% endhint %}
 
-Teaching and learning this year will be an experiment. I will be teaching with software I haven't used before \(in front of students at least\) and likely you will be learning in ways different than in your High School. And you might be using different software for each of your classes with professors demanding different forms of etiquette in each. Thus we need to all be extra patient and understanding when things don't go as smoothly as we'd like.
+Teaching and learning this year will be an experiment. I will be teaching with software I haven't used before \(in front of students at least\) and you will be learning in a medium and a format quite different from high school. You might be using different software for each of your classes with professors demanding different forms of etiquette in each. Thus I will try to be extra patient and understanding \(and I hope so will all of you\) when things don't go as smoothly as we'd like.
 
-We don't know how things are going to look in October, let alone January, so we need to be extra understanding if schedules get derailed, our discussions get interupted \(most likely by my kids!\) and learning doesn't happen exactly as hoped for. 
+We don't know how things are going to look in October, let alone January, so please understand if schedules get derailed, our discussions get interupted \(most likely by my kids!\) and learning doesn't happen exactly as hoped for. Experiments in learning can pay off if we accept the risks.
 
 ### Class Design
 
@@ -24,7 +24,7 @@ To succeed in the course, it may require more energy and discipline \(or at leas
 
 **Difficulty of concentration**: One of the reasons that I believe in-person classes remain so important, even in our online age, is because it gives us spaces in which we can switch off our devices and all of the distractions they offer, and hone the absolutely vital skill of concentration \(a skill that is vital both for having a successful learning experience in this course, but also for life in general\). Carving out spaces of intensive concentration \(while in class, doing your readings, working on your syntheses and other written assignments\) at home will no doubt be much more challenging, for a variety of reasons.
 
-**Tech problems**: no doubt there will be both a significant learning curve for all of us in terms of how the various pieces of software work, as well as a variety of tech mishaps due to the demands of internet streaming, etc. We’ll have to become skilled at quickly problem solving these together. And please don't worry if your internet connect drops, you don't have your video feed on, or your audio breaks up.  
+**Tech problems**: no doubt there will be both a significant learning curve for all of us in terms of how the various pieces of software work, as well as a variety of tech mishaps due to the demands of internet streaming, etc. We’ll have to become skilled at quickly problem solving these together. And please don't worry if your internet connect drops, you don't have your video feed on, or your audio breaks up. I am no tech genius and I suspect Carleton's IT staff will be swamped this Fall as all teaching does online. So hopefully together we can sort out issues. 
 
 ### Advantages of Distance-Learning
 

@@ -16,7 +16,7 @@ Why am I writing this, you might be asking? I want to make a suggestion or maybe
 
 * Think about how you are feeling: what are you excited about and what you are scared about. It doesn't have to be related to the class at all. Just set some time apart to reflect. 
 
-And this is also what we want the class space to be – a time in your day when you can tune out what is going on in other parts of your life and focus on the task at hand. 
+And this is also what we want the class space to be – a time in your day when you can tune out what is going on in other parts of your life and focus on the learning at hand. 
 
 {% hint style="info" %}
 During class, try to turn off notifications for non-class activities.

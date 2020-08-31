@@ -12,6 +12,13 @@ As your professor, I want to be clear about what you will learn \(or what I want
 
 ### What are the Learning Outcomes for this Class?
 
+Generally...
+
+1. You will learn about how to navigate Carleton university and its resources
+2. You will learn how to be a university student, including key study skills, etiquette for interacting with your fellow students and the professor ...
+
+Specifically ....
+
 1. You will learn how to read and interpret medieval evidence and learn the advantages and difficulties of working with them. 
 2. You will learn the limitations of evidence \(and thus our knowledge\) of the Middle Ages. Being a medieval historian means that you have to come to terms with ambiguity and that you will not always have a clear answer. 
 3. You will learn terminology \(i.e. the language used by professional historians\) and different ways \(i.e. methodologies\) to describe the medieval past. 

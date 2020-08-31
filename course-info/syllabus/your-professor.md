@@ -19,7 +19,7 @@ You can get in contact with me:
 | email: marc.saurette@carleton.ca | you have questions about the syllabus or assignments before class begins |
 | chat privately with "Marc Saurette" \(@Marc\) via the Teams app | you have private questions about your work, individual requests, accomodations ... |
 | post a public message tagged "Marc Saurette" \(@Marc\) via the Teams app | you have questions about assignments, readings which other students might also be wondering about |
-| schedule a meeting  | Via Teams [meetings](communication.md#how-to-sign-up-for-a-meeting-with-the-professor-on-teams) |
+| schedule a meeting  | Via Teams [meetings](communication/#how-to-sign-up-for-a-meeting-with-the-professor-on-teams) |
 | office telephone: ~~abandoned during COVID~~  | never    \(I can't go into my office\) |
 
 I'll have office hours each week on Wednesday mornings from 11h00-12h00. 

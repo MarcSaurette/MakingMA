@@ -2,7 +2,7 @@
 
 ### The short answer
 
-Almost all communcation should happen via the [Teams](../digital-tools/teams.md) platform. We can message privately, post general messages to channels, we can meet in an audio or videoconference as a whole or in small groups/ one-on-one.
+Almost all communcation should happen via the [Teams](../../digital-tools/teams.md) platform. We can message privately, post general messages to channels, we can meet in an audio or videoconference as a whole or in small groups/ one-on-one.
 
 {% hint style="info" %}
 Only rarely should you email me \(the professor\) because you'll likely get caught in an email backlog. 
@@ -21,13 +21,13 @@ If you want to communicate with one another outside of class, I have created a S
 Although it probably will feel a bit overstructured, please read the following carefully. Knowing all of the avenues and opportunities for contact and communication – and maximizing the opportunities you have – will be crucial to making sure you have the best learning experience possible in this course.
 
 {% hint style="info" %}
-Information about the process to request an extension/accommodation for reasons of personal/health emergency is found in [Deadlines](deadlines.md)
+Information about the process to request an extension/accommodation for reasons of personal/health emergency is found in [Deadlines](../deadlines.md)
 {% endhint %}
 
 #### **Basic Course Information** 
 
 1. The static website on [gitbook.com](https://app.gitbook.com/@marc-saurette/s/the-making-of-the-middle-ages/) will be the main source of information on basic course information, including a detailed syllabus, schedule of readings, assignment descriptions, and topics under discussion, expectations etc. 
-2. Our "The Making of the Middle Ages" group on MS Teams will provide a dynamic workspace for class announcements, discussions, as well as where our video conferences will be run. It will be a hub with links to the digital tools and readings we will be using in the course.  Note: you must be logged in to your Carleton cmail account to access [Teams](../digital-tools/teams.md). 
+2. Our "The Making of the Middle Ages" group on MS Teams will provide a dynamic workspace for class announcements, discussions, as well as where our video conferences will be run. It will be a hub with links to the digital tools and readings we will be using in the course.  Note: you must be logged in to your Carleton cmail account to access [Teams](../../digital-tools/teams.md). 
 
 {% hint style="info" %}
 ·Since we will often announce and reiterate a variety of important logistical information live in class \(not all of which will be necessarily announced elsewhere\), please attend class consistently, and check with colleagues about whether you missed any logistical information if you were not able to attend a class.
@@ -64,7 +64,7 @@ You will be able to connect with the professor  in and out of class. Outside of 
 
 #### **Written Contact with Professor**
 
-When written communication is absolutely necessary, we will exclusively use the [**Teams**](../digital-tools/teams.md) messaging system. Please note - we will not be using our Carleton email to communicate regarding this class, but rather, we will do all written communication via Teams to ensure that none of our messages go missing.
+When written communication is absolutely necessary, we will exclusively use the [**Teams**](../../digital-tools/teams.md) messaging system. Please note - we will not be using our Carleton email to communicate regarding this class, but rather, we will do all written communication via Teams to ensure that none of our messages go missing.
 
 * If you do need to message us privately, please always write on Teams using the CHAT function. 
 * Please also note that the professor will read and respond to  messages only at certain times during the working week.
@@ -95,12 +95,12 @@ Make sure you note in the subject heading that this is very urgent. And also ind
 
 ### How to sign up for a meeting with the professor on Teams. 
 
-1. Double check when the professor's office hours are [here](your-professor.md). I've scheduled them for Wednesday mornings from 11h00-12h00, but this might change depending on how much you use them, and other things that might happen in life...
+1. Double check when the professor's office hours are [here](../your-professor.md). I've scheduled them for Wednesday mornings from 11h00-12h00, but this might change depending on how much you use them, and other things that might happen in life...
 2. Open up Teams. 
 3. Click on "Calendar" in the lefthand sidebar.
 4. Click on "New Meeting"
 
-![The &quot;New Meeting&quot; button is on the top righthand corner](../../.gitbook/assets/screen-shot-2020-08-31-at-1.37.28-pm.png)
+![The &quot;New Meeting&quot; button is on the top righthand corner](../../../.gitbook/assets/screen-shot-2020-08-31-at-1.37.28-pm.png)
 
 5. This will bring you to a meeting scheduler pane. You need to fill in the form: 
 
@@ -110,11 +110,11 @@ Make sure you note in the subject heading that this is very urgent. And also ind
 * add the time to the "The Making of the Middle Ages/General" channel, so others can know when a time slot is booked. 
 * And finally write up a little bit about what we'll be talking about \(this may be public to others, so be vague if wanting to talk about somethinng confidential\). 
 
-![](../../.gitbook/assets/screen-shot-2020-08-31-at-1.39.24-pm.png)
+![](../../../.gitbook/assets/screen-shot-2020-08-31-at-1.39.24-pm.png)
 
 6. The meeting request should get sent out and I can then accept the meeting \(or revise the time if something has come up\).
 
-![](../../.gitbook/assets/screen-shot-2020-08-31-at-1.39.41-pm.png)
+![](../../../.gitbook/assets/screen-shot-2020-08-31-at-1.39.41-pm.png)
 
 Let's hope that works!
 

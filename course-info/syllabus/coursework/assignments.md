@@ -1,4 +1,4 @@
-# Classwork
+# Exercises
 
 ### Learning Together
 
@@ -8,7 +8,7 @@ On Mondays, I will introduce the topic for that week, provide some background an
 
 On Wednesday, we may continue our discussion or will work through a problem or exercise. Often students will have to do some work to prepare in advance. Examples of what kinds of classroom exercises we might do:
 
-* discuss an online article we have all annotated beforehand with [hypothes.is](../../digital-tools/hypothes.is.md) to understand the structure of an academic article
+* discuss an online article we have all annotated beforehand with [hypothes.is](../../digital-tools/reading-and-annotations/hypothes.is.md) to understand the structure of an academic article
 * work with a collaborative spreadsheet to create a class-built timeline
 * compare transcriptions of a Middle English romance
 

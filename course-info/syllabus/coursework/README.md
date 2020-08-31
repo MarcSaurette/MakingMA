@@ -23,19 +23,16 @@ Above all I just want you to get used to writing without worrying to much about 
 I am asking you to write these reflections not as yourself \(IRL\) but as your character at "The Academy". They can be as creative as you choose: a letter home, an entry from your diary, a page of notes from your Academy classes, a photo of your recreated "dorm room" bulletin board...
 {% endtab %}
 
-{% tab title="Analysis" %}
-A key skill in History is looking at evidence and figuring out the real from the bullshit. This is something really really hard to do well, so we'll do it a few times to make sure you get it right. 
+{% tab title="Exercises" %}
 
-Students will produce two different, but linked papers, showing their ability to engage in critical historical thinking and research. 
-
-1. Draft Document Analysis
-2. Rewritten Document Analysis
-
-As the names suggest, each student will first write up their critical readings of a primary source document \([assignment explained here]()\) which they have chosen to explore as a final draft. They will then receive feedback from the professor/ teaching assistant as well as their peers. And finally, they will rewrite the paper after they have incorporated comments and done additional research. 
 {% endtab %}
 
 {% tab title="Feedback" %}
  You will be asked to provide constructive criticism to written work completed by your peers \([expectations set out here]()\). We'll use the notation tool [hypothes.is]() to make comments on each other's work. 
+{% endtab %}
+
+{% tab title="Quests" %}
+
 {% endtab %}
 
 {% tab title="Process Letter" %}
@@ -43,14 +40,9 @@ A "[proces letter]()" is something we use to describe an end-of-term self-evalua
 {% endtab %}
 {% endtabs %}
 
-### **Quick Guide to length of first term assignments**:
+### **Each week you will:** 
 
-* ~~cuPortfolio profile:                                   500 words + multimedia~~
-* ~~Reflections                                                500 words + multimedia x 3~~
-* ~~Critical Analysis no. 1                              1500 words~~
-* ~~Peer feedback                                           300 words x 3 people~~
-* ~~Critical Analysis no,. 2                              2000 words~~
-* ~~Process Letter                                           500 words~~
+* ~~~~
 
 These are minimums. I am usually happy for you to exceed these rough estimates of length \(as long as you don't unnessarily bloat your writing with nonsense and random filler\).
 

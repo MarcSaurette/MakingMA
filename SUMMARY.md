@@ -13,6 +13,7 @@
   * [Learning Outcomes](course-info/syllabus/learning-outcomes.md)
   * [Communication](course-info/syllabus/communication/README.md)
     * [Digital Classroom](course-info/syllabus/communication/digital-classroom.md)
+  * [Textbooks](course-info/syllabus/textbooks.md)
   * [Coursework](course-info/syllabus/coursework/README.md)
     * [Participation](course-info/syllabus/coursework/participation.md)
     * [Readings](course-info/syllabus/coursework/readings.md)

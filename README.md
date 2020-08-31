@@ -30,3 +30,5 @@ The course is divided into three major areas of exploration:
 
 * Your \(and my\) feelings about the medieval past are often built more by non-academic things than by reading historians. Novels, movies, commercials and videogames all influence our understanding of the Middle Ages and can be more persuasive than real evidence. But they rarely offer a truthful representation of the past. We will explore the Middle Ages that “feels” right \(but might not be historically accurate\) and figure out why myths of the Middle Ages are so common. 
 
+After addressing some fundamentals, our seminar will spend much of the first term exploring and thinking about representations, before moving back to the medieval evidence for the "real" Middle Ages. 
+

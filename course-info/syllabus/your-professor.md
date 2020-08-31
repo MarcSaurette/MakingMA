@@ -12,3 +12,12 @@ As an undergraduate, I found myself in the Department of History at the Universi
 
 I did my graduate work at the University of Toronto, Canada's \(and arguably North America's\) most important centre for Medieval Studies. I ended up entranced by the monks of an obscure French monastery \(Cluny\) and their powerful, charismatic \(if also somewhat problematic\) abbot Peter. He liked to write, I liked to read. It was a marriage made in heaven. So I sat down to read. A few years later I stopped reading and started to write. And I haven’t stopped finding things about him to write about.
 
+You can get in contact with me:
+
+| Marc Saurette | To use when ...: |
+| :--- | :--- |
+| email: marc.saurette@carleton.ca | you have questions about the syllabus or assignments before class begins |
+| chat privately or post a public message tagged "Marc Saurette" \(@Marc\) via the Teams app | you have questions about the class |
+| office telephone: ~~abandoned during COVID pandemic~~ | never    \(I can't go into my office\) |
+| Schedule a meeting  | TBA |
+

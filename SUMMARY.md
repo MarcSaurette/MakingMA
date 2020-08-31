@@ -1,12 +1,16 @@
 # Table of contents
 
 * [FYSM 1405D: the Middle Ages](README.md)
+* [How to join the Online Class](how-to-join-the-online-class.md)
+* [Pandemic Learning](pandemic-learning/README.md)
+  * [Learning as a Mental Exercise](pandemic-learning/learning-as-a-mental-exercise.md)
 
 ## Course Information <a id="course-info"></a>
 
 * [Syllabus](course-info/syllabus/README.md)
   * [Your Professor, Marc](course-info/syllabus/your-professor.md)
   * [What is a seminar?](course-info/syllabus/untitled.md)
+  * [Communication](course-info/syllabus/communication.md)
   * [Learning Outcomes](course-info/syllabus/learning-outcomes.md)
   * [Coursework](course-info/syllabus/coursework/README.md)
     * [Participation](course-info/syllabus/coursework/participation.md)

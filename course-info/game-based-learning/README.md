@@ -16,11 +16,11 @@ University is a bit of a game. When you first come here, you need to learn the r
 
 In this class I want to take this process of re-imagining yourself a step further. I don't want you to think of yourself as a Carleton student stuck somewhere you might not want to be \(?\) in the midst of a worldwide pandemic. Rather I want you to imagine yourself as a new initate at a venerable school, "The Academy" in a parallel world where scholars are the last line of defence against encroaching forces of darkness.
 
-![An alternate Ottawa, with &quot;The Academy&quot; near its centre.](../.gitbook/assets/the-academy-ottawa.png)
+![An alternate Ottawa, with &quot;The Academy&quot; near its centre.](../../.gitbook/assets/the-academy-ottawa.png)
 
 As the term nears, I will begin posting more information about the game, including a player handbook and some initial suggestions for your play. In the meantime, here is a map of the Academy you will be joining in September. 
 
-![The Academy, depicted with modern scientifico-aesthetic accuracy. ](../.gitbook/assets/the-academy-with-numbers-and-legend-.pdf)
+![The Academy, depicted with modern scientifico-aesthetic accuracy. ](../../.gitbook/assets/the-academy-with-numbers-and-legend-.pdf)
 
 {% hint style="info" %}
 I am designing a co-operative game with the idea that each student will have more or less experience with playing medieval-themed games and more or less knowledge of the Middle Ages than others. But, we are designing the class/ this game in such a way that you can contribute in your own \(non-competitive!\) ways. You can be as ludic \(synonym for "playful"\) as you want, or more traditionally academic. There is no way I want to force you to do something you don't want to.

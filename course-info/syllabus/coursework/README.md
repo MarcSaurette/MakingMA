@@ -12,7 +12,7 @@ For online lectures, I will take attendence through the polling mechanism and, a
 {% endtab %}
 
 {% tab title="Profile" %}
-The first thing you'll need to do will be creating a profile of yourself on [cuLearn](../../digital-tools/culearn.md) to introduce yourself to your fellow classmates. This first profile can be a barebones "Who am I". You will also be asked to create a second profile later on - a description of your character, who is attending "[The Academy](../../game-based-learning.md)". You will use your character sheet to keep track of your developing Medievalist skills and the game elements \(such as the clues you have discovered about the nefarious cabal of Pseudo-Medievalists\). 
+The first thing you'll need to do will be creating a profile of yourself on [cuLearn](../../digital-tools/culearn.md) to introduce yourself to your fellow classmates. This first profile can be a barebones "Who am I". You will also be asked to create a second profile later on - a description of your character, who is attending "[The Academy](../../game-based-learning/)". You will use your character sheet to keep track of your developing Medievalist skills and the game elements \(such as the clues you have discovered about the nefarious cabal of Pseudo-Medievalists\). 
 {% endtab %}
 
 {% tab title="Reflections" %}
@@ -28,11 +28,11 @@ I am asking you to write these reflections not as yourself \(IRL\) but as your c
 {% endtab %}
 
 {% tab title="Feedback" %}
- You will be asked to provide constructive criticism to written work completed by your peers \([expectations set out here]()\). We'll use the notation tool [hypothes.is]() to make comments on each other's work. 
+ You will be asked to provide comments and constructive criticism to written work completed by your peers \([expectations set out here](peer-feedback.md)\). We'll use the notation tool [hypothes.is](../../digital-tools/reading-and-annotations/hypothes.is.md) to make comments on each other's work. 
 {% endtab %}
 
 {% tab title="Quests" %}
-
+During the first term, the game [Quest for the Middle Ages](../../game-based-learning/quest-for-the-middle-ages.md), will provide you with a list of activities that can earn you points. You will work together in a group in an online scavenger hunt and you can work alone to develop skills - which unlock game secrets and add to your point totals. 
 {% endtab %}
 
 {% tab title="Process Letter" %}
@@ -42,7 +42,11 @@ A "[proces letter]()" is something we use to describe an end-of-term self-evalua
 
 ### **Each week you will:** 
 
-* ~~~~
+* prepare for class by completing the assigned readings and making annotations on the texts \(primary sources, secondary sources, images, websites\) posted on [Perusall](../../digital-tools/reading-and-annotations/perusall.md).
+* attend a synchronous online seminars via [Teams](../../digital-tools/teams.md), where I will lead a discussion about weekly topics, answer questions
+* complete weekly exercises intended to practice foundational skills of History/ Medieval Studies
+* write a weekly reflection in your journal to practice writing
+* go on "Quests" to discover helpful study skills or 
 
-These are minimums. I am usually happy for you to exceed these rough estimates of length \(as long as you don't unnessarily bloat your writing with nonsense and random filler\).
+
 

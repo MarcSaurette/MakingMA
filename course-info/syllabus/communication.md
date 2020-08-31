@@ -21,7 +21,7 @@ If you want to communicate with one another outside of class, I have created a S
 Although it probably will feel a bit overstructured, please read the following carefully. Knowing all of the avenues and opportunities for contact and communication – and maximizing the opportunities you have – will be crucial to making sure you have the best learning experience possible in this course.
 
 {% hint style="info" %}
-Information about the process to request an extension/accommodation for reasons of personal/health emergency is found in [Deadlines]()
+Information about the process to request an extension/accommodation for reasons of personal/health emergency is found in [Deadlines](deadlines.md)
 {% endhint %}
 
 #### **Basic Course Information** 

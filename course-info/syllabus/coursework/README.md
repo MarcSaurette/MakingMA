@@ -15,7 +15,7 @@ For online lectures, I will take attendence through the polling mechanism \(Poll
 The first thing you'll need to do will be creating a profile of yourself on [cuLearn](../../digital-tools/culearn.md) to introduce yourself to your fellow classmates. This first profile can be a barebones "Who am I". You will also be asked to create a second profile later on - a description of your avatar, who is attending "[The Academy](../../game-based-learning/)".
 {% endtab %}
 
-{% tab title="Reflections" %}
+{% tab title="Writing" %}
 The key to academic success is practice – especially practicing writing. Writing is hard for everyone, especially when a genre is unfamiliar or the expectations are unclear. I'll try to make the expectations clear and over time the expected norms of writing will become familiar to you.
 
 Above all I just want you to get used to writing without worrying to much about being perfect at it. Most weeks you will need to write a "reflection". This is a catch-all term I'm giving to a weekly writing assignments that asks you to "reflect" on \(or think about or meditate on\) the learning you accomplished that week. At the beginning of the year, I will distribute a list of topics intended to help you focus your writing \(which you get to choose from\). 
@@ -44,7 +44,7 @@ In the second term, you will continue to write reflections and to complete exerc
 
 ### **Each week you will:** 
 
-* prepare for class by completing the assigned readings and making annotations on the texts \(primary sources, secondary sources, images, websites\) posted on [Perusall](../../digital-tools/reading-and-annotations/perusall.md).
+* prepare for class by completing the assigned readings and making annotations on the texts \(primary sources, secondary sources, images, websites\) mostly posted on [Perusall](../../digital-tools/reading-and-annotations/perusall.md).
 * attend a synchronous online seminars via [Teams](../../digital-tools/teams.md), where I will lead a discussion about weekly topics, answer questions
 * complete weekly exercises intended to practice foundational skills of History/ Medieval Studies
 * write a weekly reflection in your cuPortfolio to practice writing

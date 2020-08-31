@@ -12,3 +12,5 @@ Examples of the kinds of classroom exercises we will do:
 * annotate a scholarly article together - using [Perusall](../../digital-tools/reading-and-annotations/perusall.md) or [hypothes.is](../../digital-tools/reading-and-annotations/hypothes.is.md) to understand its structure and purpose \(in order to teach how to read secondar sources\) 
 * transcribe the 11th century handwritten copy of an 8th century letter
 
+In the detailed outline for each week, I will post links to detailed instructions of the pertinent exercise.
+

@@ -20,7 +20,7 @@ We are going to experiment with the QQTPA method for class.  When you are readin
 **an Answer**: As your reading the textbook and reader on Perusall, read through other students' questions and try to answer one. 
 {% endhint %}
 
-Social annotation is an age-old process that is very medieval. What is different in speed. It would take centuries for texts to accrue a surrounding commentary, but we can do it online in real time in a very short span. Commentary \(medieval or modern\) can link to other media, can define key terms, provide further details or contradict the main text. We are, in essence, crowdsourcing \(you being the crowd\) the readings to allow you to deepen and expand your knowledge. 
+Social annotation is an age-old process that is very medieval. What is different is speed. It would take centuries for texts to accrue a surrounding commentary, but we can do it online in real time in a very short span of time. Commentary \(medieval or modern\) can link to other media, can define key terms, provide further details or contradict the main text. We are, in essence, crowdsourcing \(you being the crowd\) the readings to allow you to deepen and expand your knowledge. 
 
 [Perusall](../../digital-tools/reading-and-annotations/perusall.md) allows us to organize most of our readings in one place so that we can annotate them together. 
 

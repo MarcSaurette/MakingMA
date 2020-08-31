@@ -40,6 +40,8 @@ A "[proces letter](process-letters.md)" is a term we use to describe an end-of-t
 {% endtab %}
 {% endtabs %}
 
+In the second term, you will continue to write reflections and to complete exercises, but they will be subordinated to a larger group project - developing a new historically- inspired game. 
+
 ### **Each week you will:** 
 
 * prepare for class by completing the assigned readings and making annotations on the texts \(primary sources, secondary sources, images, websites\) posted on [Perusall](../../digital-tools/reading-and-annotations/perusall.md).

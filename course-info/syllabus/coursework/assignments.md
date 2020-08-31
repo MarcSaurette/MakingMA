@@ -2,52 +2,15 @@
 
 ### Learning Together
 
-Each week, we officially have 3hrs of assigned class time, divided into two time slots of 1.5 hrs each, on Mondays & Wednesdays from 1:00 to 2:30 pm.
+Each week, we officially have 3hrs of assigned class time, divided into two time slots of 1 1/2 hrs each, on Mondays & Wednesdays from 13h00 to 14h30. Generally, on Mondays, I will introduce the topic for that week, provide some background and then typically we will discuss the readings and questions raised by the students in advance \(via annotation\). On Wednesdays, we may continue our discussion if there are a few unanswered questions andusually will work through a problem or exercise. 
 
-On Mondays, I will introduce the topic for that week, provide some background and then typically \(online\) we will discuss the readings and questions raised by the students in advance. 
+I will provide some explanation and an initial introduction to the exercise on Wednesdays, but much of the work may need to be completed on the students own time. 
 
-On Wednesday, we may continue our discussion or will work through a problem or exercise. Often students will have to do some work to prepare in advance. Examples of what kinds of classroom exercises we might do:
+Students will be expected to complete a certain number of annotations, lines of translation and ths such.  
 
-* discuss an online article we have all annotated beforehand with [hypothes.is](../../digital-tools/reading-and-annotations/hypothes.is.md) to understand the structure of an academic article
-* work with a collaborative spreadsheet to create a class-built timeline
-* compare transcriptions of a Middle English romance
+Examples of the kinds of classroom exercises we will do:
 
-### Learning Apart
-
-1. Each week, students will be responsible for completing 
-
-Practical Demonstrations
-
-1. get them to play with Teams together \(icebreaker?\)
-2. 3. 
-Tutorials to write up:
-
-1. How to download software
-2. Using Hypothesis
-
-Book Arts Modules. 
-
-Make a pen. 
-
-
-
-Possibilities include:
-
-* * turn info into "structured data" into TimelineJS or StoryMap.
-* terminology quizzes
-
-Group Project?
-
-* work on something together \(Gothic Revival pictures?/ geo-plotting?\)
-* use Trello or Planner/Tasks to work together on project management
-* use social media?
-
-
-
-Non-Covid Assignments
-
-* book dissection and labelling \(do it myself and document with photos, then students label?\)
-* transcriptions working in groups? on transkribus?
-* 
-
+* annotate a primary source and its antiquated English in something more modern
+* annotate a scholarly article together - using [Perusall](../../digital-tools/reading-and-annotations/perusall.md) or [hypothes.is](../../digital-tools/reading-and-annotations/hypothes.is.md) to understand its structure and purpose \(in order to teach how to read secondar sources\) 
+* transcribe the 11th century handwritten copy of an 8th century letter
 

@@ -22,3 +22,5 @@ You can get in contact with me:
 | schedule a meeting  | Via Teams [meetings](communication.md#how-to-sign-up-for-a-meeting-with-the-professor-on-teams) |
 | office telephone: ~~abandoned during COVID~~  | never    \(I can't go into my office\) |
 
+I'll have office hours each week on Wednesday mornings from 11h00-12h00. 
+

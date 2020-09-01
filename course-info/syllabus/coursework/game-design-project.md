@@ -9,9 +9,9 @@ No one is expected to have any experience in game-design, but rather we will wor
 The game will have successive stages:
 
 1. **Preparatory reading**. December 2020. Students will receive the _FYSM1405D Game Design Handbook_, laying out readings, best practices and subject areas that could be the basis of the Game Design Project. 
-2. **Initial Brainstorming.** January, 2021. In a series of videoconference meetings in the first weeks of January, students will identify key ideas they wish to develop into project proposals. In three groups, students will be expected to develop a basic ideas of a game. 
-3. **Project proposal presentation**. February 2021. The three teams will pitch their ideas. Afterwards, students will vote to proceed with a single idea. 
+2. **Initial Brainstorming.** January, 2021. In a series of videoconference meetings in the first weeks of January, students will identify key ideas they wish to develop into project proposals. In three groups, students will be expected to develop a basic ideas of a game. We will use mindmeister to develop detailed mindmaps. 
+3. **Project proposal presentation**. February 2021. The three teams will pitch their ideas. Afterwards, students will vote to proceed with a single idea. Students will divide into new teams - design, research, writing with a two-person project manager lead. Using Trello, tasks will be posted and assigned to specific people.
 4. **Research phase.** February/ March 2021. Students will continue research into the subject area, identify possible models. Students will produce an exhaustive annotated bibliography as the basis of their developing project. 
 5. **Game Creation**. March/April 2021. Students will work together to write a rulebook, design accompanying artwork and produce a prototype. 
-6. **Game Release**. April 2021. At the end of the school year, students will release a version \(even if unfinished of their game\) for others to critique and enjoy. 
+6. **Game Release**. April 2021. At the end of the school year, students will release a version \(even if unfinished\) for others to critique and enjoy. 
 

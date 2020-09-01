@@ -8,12 +8,12 @@ This "Making of the Middle Ages" is likewise designed for gradual entry, with th
 
 | Experience Points† | Titles and Honours |
 | :--- | :--- |
-| 1500 | His/Her/Their Eminence, the Acolyte Smith |
-| 1300 | Venerable Acolyte Smith |
-| 1100 | Right Reverend Acolyte Smith |
-| 900 | Reverend Acolyte Smith |
-| 700 | Honourable Acolyte Smith |
-|  600 | Acolyte Smith, F.O.R. \(Fellow of the Order of the Raven\) |
+| 1500 | His/Her/Their Eminence, the Acolyte \[ name here \] |
+| 1300 | Venerable Acolyte \[ name here \] |
+| 1100 | Right Reverend Acolyte \[ name here \] |
+| 900 | Reverend Acolyte \[ name here \] |
+| 700 | Honourable Acolyte \[ name here \] |
+|  600 | Acolyte \[ name here \], F.O.R. \(Fellow of the Order of the Raven\) |
 
 † I haven't really used this system before so I might need to adjust these numbers downwards if I've set them too high. 
 

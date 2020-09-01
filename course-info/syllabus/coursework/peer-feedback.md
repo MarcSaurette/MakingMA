@@ -6,7 +6,7 @@
 
 Students are expected to give feedback on the fellow students' writing three times during the first term, preferably in the first half of the first term. 
 
-Students are expected to provide occasional feedback on fellow students's [writing](reflections.md) using [Hypothe.is](../../digital-tools/reading-and-annotations/hypothes.is.md). People will not be assessing \(i.e. grading\) your work, only providing constructive feedback. Normally academic peer review is private or "double-blind" – meaning that neither reviewer nor author are known by each other, but in this class it will not be anonymous. So please be extra collegial when offering feedback to others. 
+Students are expected to provide occasional feedback on fellow students's [writing](reflections/) using [Hypothe.is](../../digital-tools/reading-and-annotations/hypothes.is.md). People will not be assessing \(i.e. grading\) your work, only providing constructive feedback. Normally academic peer review is private or "double-blind" – meaning that neither reviewer nor author are known by each other, but in this class it will not be anonymous. So please be extra collegial when offering feedback to others. 
 
 The goal of work is to learn how other people write \(if you are the commenter\) and how other people read your writing \(not just your professor\). Both reading others' writing and having your own writing read allow you \(in different ways\) to learn the strengths and weaknesses of how you write. Since we \(and you\) would likely prefer to receive helpful feedback, your own comments on other people’s writing need to be polite, helpful and collegial.\[1\] 
 

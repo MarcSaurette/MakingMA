@@ -8,7 +8,14 @@ Given the current worldwide pandemic and that most \(all?\) of you will be dista
 
 At the beginning of the term you will 1\) write up a character for the game and 2\) begin a scavenger hunt to earn points towards leveling up at the Academy. 
 
-Please find below fillable pdf character sheets that you might want to use to present your character to your fellow classmates. 
+Please find below fillable pdf character sheets that you might want to use to present your character to your fellow classmates. Feel free to design your own on paper and post a scan to cuPortfolio, create a cuPortfolio version, or post the filled out template there. 
+
+Your character profile should include a description of:
+
+* the character's background
+* their chosen field of study and possible future directions
+* have space to list skills developed in class
+* ...
 
 {% file src="../../../../.gitbook/assets/qma-cs-1.pdf" caption="Character Sheet Template \(page 1\)" %}
 

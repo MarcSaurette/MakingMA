@@ -28,16 +28,9 @@
   * [Assessment](course-info/syllabus/assessment-1/README.md)
     * [Why no grades?](course-info/syllabus/assessment-1/why-no-grades.md)
   * [Deadlines](course-info/syllabus/deadlines.md)
-  * [Classroom Exercises](course-info/syllabus/classroom-exercises.md)
   * [How much time do I spend...](course-info/syllabus/how-much-time-do-i-spend....md)
   * [Assessment](course-info/syllabus/assessment.md)
 * [Schedule](course-info/schedule.md)
-* [Game-Based Learning](course-info/game-based-learning/README.md)
-  * [Quest for the Middle Ages](course-info/game-based-learning/quest-for-the-middle-ages.md)
-  * [Game Design](course-info/game-based-learning/game-design.md)
-* [What to do as we go forward](course-info/what-to-incorporate-as-we-go-forward.md)
-* [Readings & Resources](course-info/readings-and-resources/README.md)
-  * [How to Read for Class](course-info/readings-and-resources/how-to-read-for-class.md)
 * [Digital Tools](course-info/digital-tools/README.md)
   * [Office](course-info/digital-tools/office.md)
   * [Teams](course-info/digital-tools/teams.md)
@@ -47,6 +40,10 @@
   * [Zotero](course-info/digital-tools/zotero.md)
   * [CuLearn](course-info/digital-tools/culearn.md)
   * [CuPortfolio](course-info/digital-tools/cuportfolio.md)
+* [Game-Based Learning](course-info/game-based-learning/README.md)
+  * [Quest for the Middle Ages](course-info/game-based-learning/quest-for-the-middle-ages.md)
+  * [Game Design](course-info/game-based-learning/game-design.md)
+* [Readings & Resources](course-info/readings-and-resources.md)
 
 ## Prologue
 

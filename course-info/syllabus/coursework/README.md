@@ -30,7 +30,7 @@ Each week \(usually during the Wednesday class\), we will complete short exercis
 {% endtab %}
 
 {% tab title="Feedback" %}
- You will be asked to provide comments and constructive criticism to written work completed by your peers \([expectations set out here](peer-feedback.md)\). We'll use the annotation tool [hypothes.is](../../digital-tools/reading-and-annotations/hypothes.is.md) to make comments on each other's work. 
+ You will be asked to provide comments and constructive criticism to written work completed by your peers \([expectations set out here](peer-feedback.md)\). We'll use the annotation tool [hypothes.is](../../digital-tools/hypothes.is.md) to make comments on each other's work. 
 {% endtab %}
 
 {% tab title="Quests" %}
@@ -48,7 +48,7 @@ In the second term, the class will work on a [group project ](game-design-projec
 
 ### **Each week you will:** 
 
-* prepare for class by completing the assigned readings and making annotations on the texts \(primary sources, secondary sources, images, websites\) mostly posted on [Perusall](../../digital-tools/reading-and-annotations/perusall.md).
+* prepare for class by completing the assigned readings and making annotations on the texts \(primary sources, secondary sources, images, websites\) mostly posted on [Perusall](../../digital-tools/perusall.md).
 * attend a synchronous online seminars via [Teams](../../digital-tools/teams.md), where I will lead a discussion about weekly topics, answer questions
 * complete weekly exercises intended to practice foundational skills of History/ Medieval Studies
 * write a weekly reflection in your cuPortfolio to practice writing

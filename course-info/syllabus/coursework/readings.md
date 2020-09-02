@@ -1,6 +1,6 @@
 # Readings
 
-I am trying something new this year. Instead of having the bookstore order physical books to campus \(which I am not sure if you are going to be nearby\), we will instead use digital books which we will read and annotate together via [Perusall](../../digital-tools/reading-and-annotations/perusall.md).  Perusall allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year. We will also being using another annotation tool, [Hypothes.is](../../digital-tools/reading-and-annotations/hypothes.is.md) to annotate webpages and other online resources. 
+I am trying something new this year. Instead of having the bookstore order physical books to campus \(which I am not sure if you are going to be nearby\), we will instead use digital books which we will read and annotate together via [Perusall](../../digital-tools/perusall.md).  Perusall allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year. We will also being using another annotation tool, [Hypothes.is](../../digital-tools/hypothes.is.md) to annotate webpages and other online resources. 
 
 You will not need to purchase any textbooks for this class. 
 
@@ -22,7 +22,7 @@ We are going to experiment with the QQTPA method for class.  When you are readin
 
 Social annotation is an age-old process that is very medieval. What is different is speed. It would take centuries for texts to accrue a surrounding commentary, but we can do it online in real time in a very short span of time. Commentary \(medieval or modern\) can link to other media, can define key terms, provide further details or contradict the main text. We are, in essence, crowdsourcing \(you being the crowd\) the readings to allow you to deepen and expand your knowledge. 
 
-[Perusall](../../digital-tools/reading-and-annotations/perusall.md) allows us to organize most of our readings in one place so that we can annotate them together. 
+[Perusall](../../digital-tools/perusall.md) allows us to organize most of our readings in one place so that we can annotate them together. 
 
 ![](../../../.gitbook/assets/e-codices_fmb-cb-0031_002r_medium.jpg)
 

@@ -42,7 +42,6 @@
 * [Game-Based Learning](course-info/game-based-learning/README.md)
   * [Quest for the Middle Ages](course-info/game-based-learning/quest-for-the-middle-ages.md)
   * [Game Design](course-info/game-based-learning/game-design.md)
-* [Readings & Resources](course-info/readings-and-resources.md)
 
 ## Prologue
 
@@ -85,4 +84,5 @@
 * [Lives](medieval-sources/lives.md)
 * [Law](medieval-sources/law.md)
 * [History](medieval-sources/history.md)
+* [Readings & Resources](medieval-sources/readings-and-resources.md)
 

@@ -8,7 +8,7 @@ In the first few weeks of class, students will work in pre-assigned groups on "T
 
 ### Individual Quests
 
-Below is a table of beginner level skills to develop individually and independetly. More advanced skills can be pursued upon completion of the starting level skills \(to be posted in the future\).
+Below is a table of beginner level skills to develop individually and independetly. More advanced skills can be pursued upon completion of the starting level skills \(to be posted in the future\). After the first weeks of class, the current list will be supplemented by a description of the conditions necessary to be met in order for each student to demonstrate their mastery of a skill. 
 
 {% tabs %}
 {% tab title="Study Skills" %}

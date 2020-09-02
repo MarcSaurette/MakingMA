@@ -10,16 +10,18 @@ In the second term, together as a class we will decide whether to retain a non-g
 
 ### Titles and Honorifics to be Earned
 
+From 0-600 XP, you are considered a normal run of the mill Acolyte. 
+
 | Experience Points† | Titles and Honours |
 | :--- | :--- |
-| 1500 | His/Her/Their Eminence, the Acolyte \[ name here \] |
-| 1300 | Venerable Acolyte \[ name here \] |
-| 1100 | Right Reverend Acolyte \[ name here \] |
-| 900 | Reverend Acolyte \[ name here \] |
+| 1200 | His/Her/Their Eminence, the Acolyte \[ name here \] |
+| 1100 | Venerable Acolyte \[ name here \] |
+| 900 | Right Reverend Acolyte \[ name here \] |
+| 800 | Reverend Acolyte \[ name here \] |
 | 700 | Honourable Acolyte \[ name here \] |
-|  600 | Acolyte \[ name here \], F.O.C. \(_Frater Ordinis Corvorum_\) |
+| 600 | Acolyte \[ name here \], F.O.C. \(_Frater Ordinis Corvorum_\) |
 
-† I haven't really used this system before so I might need to adjust these numbers if I've set them too high. 
+† I haven't really used this system before so I might need to adjust these numbers if I've set them too high \(which depends on how [The Seeking](../coursework/quests.md#the-seeking) goes\). 
 
 In addition to earning the right to be addressed with different honorifics, once individuals, houses or the whole class reach different XP totals, **new rewards**, challenges and possibilities will be unlocked. 
 
@@ -29,14 +31,15 @@ All students start out the class with 0 XP. As you complete quests and assignmen
 
 Every point values below are doubled if I assess it to be done exceptionally. Thus, if someone produces a piece of writing that succeeds above my expectations, I will double the typical XP value as recognition of your accomplishment \(e.g. a Profile done exceptionally earns you 2xN XP\). 
 
-Generally, each week you will login to the online class, write one piece of writing, do an exercise and complete the assigned readings. 
+Generally, each week you will login to the online class, write one piece of writing, do an exercise and complete the assigned readings. So each week you should typically gain 50 points \(or roughly 600 over the course of the first term\). Your number total will be increased with XP gained during "[The Seeking](../coursework/quests.md#the-seeking)" and from completing [individual quests](../coursework/quests.md#individual-quests). 
 
 | XP Gained | Task |
 | :--- | :--- |
-| 10 | For each piece of writing \(as assigned weekly, e.g. Profile, Character Profile\) on time |
-| 10 | For each exercise completed on time |
+| 15 | For each piece of writing \(as assigned weekly, e.g. Profile, Character Profile\) on time |
+| 15 | For each exercise completed on time |
 | 10 | For reading and annotating the assigned readings each week on time |
 | 10 | Attending synchronous class portions |
+| Usually 10 | Individual Quests |
 
 
 

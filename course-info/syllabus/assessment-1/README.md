@@ -13,9 +13,9 @@ This "Making of the Middle Ages" is likewise designed for gradual entry, with th
 | 1100 | Right Reverend Acolyte \[ name here \] |
 | 900 | Reverend Acolyte \[ name here \] |
 | 700 | Honourable Acolyte \[ name here \] |
-|  600 | Acolyte \[ name here \], F.O.R. \(Fellow of the Order of the Raven\) |
+|  600 | Acolyte \[ name here \], F.O.C. \(_Frater Ordinis Corvorum_\) |
 
-† I haven't really used this system before so I might need to adjust these numbers downwards if I've set them too high. 
+† I haven't really used this system before so I might need to adjust these numbers if I've set them too high. 
 
 In the second term, together as a class we will decide whether to retain a non-grade system, or whether you corporately wish to return to a more familiar system. 
 

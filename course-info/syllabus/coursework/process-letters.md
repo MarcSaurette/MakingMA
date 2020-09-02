@@ -27,6 +27,7 @@ You might also be asked more detailed feedback such as:
 8. Identify someone in class who helped you to do/ produce better work than you expected. Describe how they helped you.
 9. Describe if and how you helped someone else in class with their work. 
 10. Identify one person whom you would categorize as a model student and explain how/why.
+11. Did you ever hand in work after the expected deadline? How often?
 
 {% hint style="info" %}
 One purpose of the class is to help students to develop better collaborative and leadership skills. Part of this is identifying one’s own strengths and weaknesses in this regard while also realizing what makes an effective working group and what does not. 

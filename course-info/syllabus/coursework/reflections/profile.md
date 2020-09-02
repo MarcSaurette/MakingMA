@@ -6,7 +6,7 @@ On Teams, you will introduce yourself briefly. On cuPortfolio, you will write up
 
 Since we won't be meeting in person \(in first term, at least\), I want all the students to put together a profile page which gives your fellow students a sense of who you are, why you took the course, how many cute animals you have, your social media id's \(if you want\) ... [Here](https://cuportfolio.carleton.ca/view/view.php?t=R0JhOVq2vQu3xfWjiceY) is a simple profile page I've put together for myself. 
 
-To get started on [cuPortfolio](), students will need to copy the collection, "Coursework" to their portfolio and then share with the class \([instructions here]()\). Then edit the page entitled "Profile". 
+To get started on [cuPortfolio](../../../digital-tools/cuportfolio.md), students will need to copy the collection, "Coursework" to their portfolio and then share with the class \([instructions here](../../../digital-tools/cuportfolio.md)\). Then edit the page entitled "Profile". 
 
 I want you to:
 

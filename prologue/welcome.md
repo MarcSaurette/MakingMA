@@ -16,7 +16,7 @@ The first week of class provides a transition back to school. This year the tran
 2. Use [MS Teams](../course-info/digital-tools/teams.md) \(activate, install and login to the class group\). 
 3. Login to[ Perusall](../course-info/digital-tools/perusall.md) and start annotating your first reading assignment. 
 4. Read up about the[ Digital tools ](../course-info/digital-tools/)we'll be using this year.
-5. [Introduce yourself and say hello]() to your classmates in the week one channel on Teams.
+5. [Introduce yourself and say hello](../course-info/syllabus/coursework/assignments/1.-introduce-yourself.md) to your classmates in the week one channel on Teams.
 6. Complete this [background survey]() to let me know more about you. 
 
 ### **Online Time**

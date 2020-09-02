@@ -37,6 +37,7 @@
     * [Hypothes.is](course-info/digital-tools/reading-and-annotations/hypothes.is.md)
     * [Perusall](course-info/digital-tools/reading-and-annotations/perusall.md)
   * [Zotero](course-info/digital-tools/zotero.md)
+  * [Trello](course-info/digital-tools/trello.md)
   * [CuLearn](course-info/digital-tools/culearn.md)
   * [CuPortfolio](course-info/digital-tools/cuportfolio.md)
 * [Game-Based Learning](course-info/game-based-learning/README.md)

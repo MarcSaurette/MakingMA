@@ -1,4 +1,4 @@
-# Character Profile
+# 2. Character Profile
 
 For part of this year’s class, I want you to suspend your disbelief and imagine yourself as a new student at _The Academy_ – a venerable school devoted to teaching the whole of knowledge – human or otherwise... You are a new acolyte seeking enlightenment by studying the Medievalist Arts. Once you arrive at the Academy and get oriented, you will develop your academic skills – training in domains of knowledges along with your classmates to solve mysteries, duel with opponents and \(hopefully\) to uncover the shadowy forces of darkness.
 

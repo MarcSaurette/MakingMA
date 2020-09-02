@@ -4,7 +4,7 @@ When learning in person, professors and students meet in class for lectures and 
 
 Usually when I teach this course, I divide work into oral and written work. Oral work usually consists of "participation" i.e. being in class, asking questions, showing you've learned from doing the readings, etc \(an abbreviation of _et cetera_, Latin for "and other things"\). But participation, since we're taking this online, will be based on "conversations"/ discussions in the [Teams](../../digital-tools/teams.md) platform – it might be oral or it might be written. Over the course of the first term, you will complete the following work – designed so that you build on skills you will have acquired earlier in the year. 
 
-The [orientation scavenger hunt](quests.md#the-seeking), the  [weekly writing pieces](reflections/) and [exercises](assignments.md) are necessary and required. That is to say, they all must be complete for the student to pass the course. Other coursework \(such as the [individual quests](quests.md#individual-quests)\) are optional.
+The [orientation scavenger hunt](quests.md#the-seeking), the  [weekly writing pieces](reflections/) and [exercises](assignments/) are necessary and required. That is to say, they all must be complete for the student to pass the course. Other coursework \(such as the [individual quests](quests.md#individual-quests)\) are optional.
 
 {% tabs %}
 {% tab title="Participation" %}

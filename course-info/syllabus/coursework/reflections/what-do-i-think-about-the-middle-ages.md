@@ -1,4 +1,4 @@
-# What do I think about the Middle Ages?
+# 3. What do I think about the Middle Ages?
 
 Before beginning this assignment, I would recommend that you take some time to look through the Profile pages of your fellow students to get a sense of how others are using [cuPortfolio](../../../digital-tools/cuportfolio.md).
 

@@ -1,4 +1,4 @@
-# Profile
+# 1. Profile
 
 In the first week of class, you are asked to put together a profile of yourself to introduce you to others in class.
 

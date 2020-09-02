@@ -9,7 +9,7 @@ I will provide some explanation and an initial introduction to the exercise on W
 Examples of the kinds of classroom exercises we will do:
 
 * annotate a primary source and its antiquated English in something more modern
-* annotate a scholarly article together - using [Perusall](../../digital-tools/perusall.md) or [hypothes.is](../../digital-tools/hypothes.is.md) to understand its structure and purpose \(in order to teach how to read secondar sources\) 
+* annotate a scholarly article together - using [Perusall](../../../digital-tools/perusall.md) or [hypothes.is](../../../digital-tools/hypothes.is.md) to understand its structure and purpose \(in order to teach how to read secondar sources\) 
 * transcribe the 11th century handwritten copy of an 8th century letter
 
 In the detailed outline for each week, I will post links to detailed instructions of the pertinent exercise.

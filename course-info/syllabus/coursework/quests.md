@@ -2,7 +2,13 @@
 
 A key part of learning is discovering what you want to know, so I've designed a series of self-directed "quests". So long as you can demonstrate you have fulfilled the necessary conditions, you can win  for you to keep you deepening your knowledge. I list below a series of skills you might wish to develop as new acolytes to the Historical Arts. You can demonstrate your mastery of a skill that will earn you experience points.
 
-Below is a table of beginner level skills to develop. More advanced skills can be pursued upon completion of the starting level skills \(to be posted in the future\).
+### The Seeking
+
+In the first few weeks of class, students will work in pre-assigned groups on "The Seeking" - an online scavenger hunt meant to orient you to the university, the department and each other. 
+
+### Individual Quests
+
+Below is a table of beginner level skills to develop individually and independetly. More advanced skills can be pursued upon completion of the starting level skills \(to be posted in the future\).
 
 {% tabs %}
 {% tab title="Study Skills" %}

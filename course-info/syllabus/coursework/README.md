@@ -4,6 +4,8 @@ When learning in person, professors and students meet in class for lectures and 
 
 Usually when I teach this course, I divide work into oral and written work. Oral work usually consists of "participation" i.e. being in class, asking questions, showing you've learned from doing the readings, etc \(an abbreviation of _et cetera_, Latin for "and other things"\). But participation, since we're taking this online, will be based on "conversations"/ discussions in the [Teams](../../digital-tools/teams.md) platform – it might be oral or it might be written. Over the course of the first term, you will complete the following work – designed so that you build on skills you will have acquired earlier in the year. 
 
+The [orientation scavenger hunt](quests.md#the-seeking), the  [weekly writing pieces](reflections/) and [exercises](assignments.md) are necessary and required. That is to say, they all must be complete for the student to pass the course. Other coursework \(such as the [individual quests](quests.md#individual-quests)\) are optional.
+
 {% tabs %}
 {% tab title="Participation" %}
 So, let's get this out in the open. Participation is always difficult to assess. Even in face-to-face classes, I can measure what I see, but I don't know the work that has been done behind the scenes \(especially if you are a quiet or shy student\). So typically, I have had students assign themselves a mark for participation each class – based on a rubric assigning points for attendence and for degree of participation. 
@@ -33,6 +35,8 @@ Each week \(usually during the Wednesday class\), we will complete short exercis
 
 {% tab title="Quests" %}
 During the first term, the game [Quest for the Middle Ages](../../game-based-learning/quest-for-the-middle-ages.md), will provide you with a list of activities that can earn you points. You will work together in a group in an online scavenger hunt and you can work alone to develop skills - which unlock game secrets and add to your point totals. 
+
+The first quests will be worked on together as a group in the orientation "Seeking" in the first few weeks of class. 
 {% endtab %}
 
 {% tab title="Process Letter" %}
@@ -40,7 +44,7 @@ A "[proces letter](process-letters.md)" is a term we use to describe an end-of-t
 {% endtab %}
 {% endtabs %}
 
-In the second term, you will continue to write reflections and to complete exercises, but they will be subordinated to a larger group project - developing a new historically- inspired game. 
+In the second term, the class will work on a [group project ](game-design-project.md)that we will work on each week in order to develop a new historically- inspired game. 
 
 ### **Each week you will:** 
 

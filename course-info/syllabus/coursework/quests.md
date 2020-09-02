@@ -4,7 +4,7 @@ A key part of learning is discovering what you want to know, so I've designed a 
 
 ### The Seeking
 
-In the first few weeks of class, students will work in pre-assigned groups on "The Seeking" - an online scavenger hunt meant to orient you to the university, the department and each other. 
+In the first few weeks of class, students will work in pre-assigned groups on "The Seeking" - an online scavenger hunt meant to orient you to the university, the department and each other. More details will be posted when it begins. 
 
 ### Individual Quests
 

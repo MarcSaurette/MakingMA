@@ -1,5 +1,7 @@
 # 1. Profile
 
+**Due 10pm, Sunday September 20th.**
+
 In the first week of class, you are asked to put together a profile of yourself to introduce you to others in class.
 
 On Teams, you will introduce yourself briefly. On cuPortfolio, you will write up something a bit more lengthy \(with pictures and links!\). Follow the instructions [here](../../../digital-tools/cuportfolio.md) on how to get started on cuPortfolio. 

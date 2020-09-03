@@ -13,11 +13,11 @@ Instead we are going to establish a system of academic honour or **Reputation** 
 | Assignment | Date due |
 | :--- | :--- |
 | [cuPortfolio profile](coursework/reflections/profile.md) | 10pm Sunday of week 2 \(September 25\) |
-| [Character profile](coursework/reflections/character-profile.md) | 4pm Friday of week 4 \(October 9\) |
+| [Character profile](coursework/reflections/character-profile.md) | 10pm Sunday of week 3 \( |
 | [The Seeking](coursework/quests.md#the-seeking) | 4pm Friday of week 12 \(December 4\) |
 | Draft Document Analysis | 10am Monday of week 7 \(November 2\) |
-| Peer Feedback | 4pm Friday of week 9 \(November 13\) |
-| Rewritten Document Analysis | 4pm Friday of week 11 \(November 27\) |
+| Peer Feedback | 3 x in first six weeks \(by  |
+|  |  |
 | Process Letter | 4pm Friday of week 13 \(December 11\) |
 
 † Quests can be completed at any time. 

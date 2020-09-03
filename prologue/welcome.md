@@ -7,6 +7,7 @@ By the end of the first week \(by Sunday, September 13th\), what should you **kn
 1. You'll get to know a bit about your professor and your fellow classmates
 2. You will know what the course is all about and how we're going to run it
 3. You will figure out how to use some tools necessary for learning online
+4. You will be introduced to the game, _Quest for the Middle Ages_
 
 ### Overview:
 
@@ -15,7 +16,7 @@ The first week of class provides a transition back to school. This year the tran
 1. Make sure you can access your Carleton email \(ends in a @cmail.carleton.ca\)
 2. Read the syllabus and schedule on Gitbook \(i.e. this place\). 
 3. Use [MS Teams](../course-info/digital-tools/teams.md) \(activate, install and login to the class group\). 
-4. Login to[ Perusall](../course-info/digital-tools/perusall.md) and start annotating your first reading assignment. 
+4. Login to[ Perusall](../course-info/digital-tools/perusall.md) and start annotating your first reading assignments. 
 5. Read up about the[ Digital tools ](../course-info/digital-tools/)we'll be using this year.
 6. [Introduce yourself and say hello](../course-info/syllabus/coursework/assignments/1.-introduce-yourself.md) to your classmates in the week one channel on Teams.
 7. Complete this [background survey](https://forms.office.com/Pages/ResponsePage.aspx?id=lRjZagbeXki8UfzhJsyFMHYe4bjIkPJLpePMoYTjyCNUREFQWEtNU0QwRlc2VDRYWTFLOEhCV01aSS4u) to let me know more about you. 

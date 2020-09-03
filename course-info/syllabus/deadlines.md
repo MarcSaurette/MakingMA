@@ -8,7 +8,7 @@ Since we're not really having marks for each assignment, I can't threaten dracon
 
 Instead we are going to establish a system of academic honour or **Reputation** for the first term. Everyone starts with 10 reputation points.You can gain reputation points by helping your classmates and can lose them by being late \(loss of 1point for an assignment being late, more for academic integrity issues\). If you fall below a 5 in reputation, you will suffer the consequences in the Academy - you will face greater difficulties in solving clues, eliciting information and trying to influence your group in the game. 
 
-### Important Dates
+### Important Dates for Term I
 
 | Assignment | Date due |
 | :--- | :--- |
@@ -17,10 +17,8 @@ Instead we are going to establish a system of academic honour or **Reputation** 
 | [The Seeking](coursework/quests.md#the-seeking) | 10pm Sunday of week 4  \(October 4\) |
 | [Writing Journal](coursework/reflections/) | Each entry due 10pm the Sunday after each week of class |
 | [Exercises](coursework/assignments/) | Generally 10am the Sunday after each week of class |
-| Quests | As completed \(optional\) in first 10 weeks of class \(no later than November 25th for credit\) |
-| Process Letter | 4pm Friday of week 13 \(December 11\) |
-
-† Quests can be completed at any time. 
+| [Quests](coursework/quests.md) | As completed \(optional\) in first 10 weeks of class \(no later than November 25th for credit\) |
+| [Process Letter](coursework/process-letters.md) | 4pm Friday of week 13 \(December 11\) |
 
 ### Extensions and Accommodations
 

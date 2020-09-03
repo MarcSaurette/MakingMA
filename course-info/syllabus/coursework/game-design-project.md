@@ -1,6 +1,6 @@
 # Game Design Project
 
-In the second term, we will In this class, we spend the first term inhabiting a gamified academic world and in the second term we will create a game of our own. As I conceive it, the first term will provide us with some experience to make assessments and evaluations about what was positive or negative about the _Quest for the Middle Ages_ game. We will use this experience to give us ideas about how to create a new game intended to educate \(and entertain\) other History/Medieval Studies students. 
+In the second term, we will spend the first term inhabiting a gamified academic world and in the second term we will create a game of our own. As I conceive it, the first term will provide us with some experience to make assessments and evaluations about what was positive or negative about the _Quest for the Middle Ages_ game. We will use this experience to give us ideas about how to create a new game intended to educate \(and entertain\) other History/Medieval Studies students. 
 
 Historians attempt to take very complex historical situtations and view them through different interpretive lenses. They see "rules" to how history works. In creating a game, we will seek to identify key defining features of the medieval past and distill them into game mechanics. 
 

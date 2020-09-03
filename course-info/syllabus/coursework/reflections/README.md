@@ -4,7 +4,7 @@ In the first term, the students will be expected to write short pieces each week
 
 I'll try to make the expectations clear and over time the expected norms of writing will become familiar to you. Above all I just want you to get used to writing without worrying to much about being perfect at it. Many weeks you will need to write a "reflection". This is a catch-all term given to writing assignments that ask you to "reflect" on \(or think about or meditate on\) the learning you accomplished that week. 
 
-At the beginning of the year, I will distribute a list of topics intended to help you focus your writing \(which you get to choose from\). I am asking you to write these reflections not as you, the Carleton student, but as your character attending "The Academy". They can be as creative as you choose: a letter home, an entry from your diary, a page of notes from your Academy classes, a photo of your recreated "dorm room" bulletin board... They can also be very typically academic writing if you prefer. 
+At the beginning of the year, I will distribute a list of topics intended to help you focus your writing \(which you get to choose from\). I am suggesting you to write these reflections not as you, the Carleton student, but as your character attending "The Academy". They can be as creative as you choose: a letter home, an entry from your diary, a page of notes from your Academy classes, a photo of your recreated "dorm room" bulletin board... They can also be very typically academic writing if you prefer. 
 
 The initial topics will be: 
 

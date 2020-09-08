@@ -1,2 +1,43 @@
 # When is the Middle Ages?
 
+### Goals for this week \(September 14/16, 2020\)
+
+By the end of this week, what should students **know**, be able to **do** and **understand**?
+
+1. Learn about how medievalists think about the periodization \(i.e. the temporal limits\) of the Middle Ages and why it is considered a historical period worthy \(or not\) of study.
+2. Learn what a primary source is and the problems of interpretation 
+3. Learn how to use Perusall in order to annotate a primary source 
+
+### Overview:
+
+This week marks the beginning of the synchronous learning portion of the class. We will come together online for an introduction to the Middle Ages and to think about how it is defined chronologically. 
+
+This week will be exploring the idea of Periodization, asking how historical periods are constructed after the fact to represent something meaningful for historians \(or other people interested in the past\). By understanding how we temporally define the past, we can see the basic axioms we hold about that period. 
+
+1. Spend some time fielding any technical questions
+2. Read and annotate on Perusall
+3. 
+### **Online Time**
+
+{% hint style="info" %}
+Students need to have installed and successfully logged into Teams by Monday, September 21st, to ensure that they receive any updates to our schedule. 
+{% endhint %}
+
+1. We will be meeting online from 11h30-1h00, Monday September 14, 2020.  [Join the Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3a3aa1fa742db944319f92713dd21474ef%40thread.tacv2/1591640213241?context=%7b%22Tid%22%3a%226ad91895-de06-485e-bc51-fce126cc8530%22%2c%22Oid%22%3a%22b8e11e76-90c8-4bf2-a5e3-cca184e3c823%22%7d). I will be online about 15 minutes before class if you want to discuss anything.  
+
+* the professor will introduce and talk about how to define the Middle Ages as a chronological period
+* students will divided into small groups to meet one another and to discuss assigned reading material.
+* we'll end this synchronous session with an AMA \(Ask-me-anything\) session for the final 20 mins.
+
+2. On Wednesday, September 16,  I will demonstate on Teams how to use Perusall to annotate a primary source in the course reader. I'll be working through the process live, so you can follow along, ask questions, and annotate the text alongside your classmates in real time. If you prefer, you can do this on your own time, since this will be recorded and available for watching at a later time. 
+
+### Read/Watch/Listen
+
+* read through the 4 pages of the[ Anatomy of a Primary Source ](../course-info/syllabus/coursework/assignments/2.-document-annotation-exercise.md)exercise
+* read the _Founding Charter of Cluny_ in the primary source reader in Perusall
+* read the assigned chapter of Marc Bloch's _The Historican's Craft_
+
+### Practice
+
+Read the following pages as preparation for the annotation exercise on Perusall.
+

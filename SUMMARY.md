@@ -19,6 +19,7 @@
     * [Readings](course-info/syllabus/coursework/readings.md)
     * [Exercises](course-info/syllabus/coursework/assignments/README.md)
       * [1. Introduce Yourself](course-info/syllabus/coursework/assignments/1.-introduce-yourself.md)
+      * [2. Document Annotation Exercise](course-info/syllabus/coursework/assignments/2.-document-annotation-exercise.md)
     * [Writing](course-info/syllabus/coursework/reflections/README.md)
       * [1. Profile](course-info/syllabus/coursework/reflections/profile.md)
       * [2. Character Profile](course-info/syllabus/coursework/reflections/character-profile.md)

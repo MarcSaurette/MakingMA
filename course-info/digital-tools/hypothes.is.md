@@ -18,27 +18,49 @@ We will use hypothes.is _via_ a plug-in on your Chrome Browser.
 
 2. Navigate to the hypothes.is website \([https://web.hypothes.is](https://web.hypothes.is/)\) and press the "Get Started" button in the top right corner. 
 
+![](../../.gitbook/assets/screen-20shot-202020-06-16-20at-202.03.38-20pm.png)
+
 3. If you click on the "Get Started" button it will take you to page to sign up for an account and a link to download the Crhome extension. 
 
+![](../../.gitbook/assets/screen-20shot-202020-06-16-20at-202.01.06-20pm.png)
+
 4. First navigate to the account sign up. You can use any email and password. Just make sure to remember them both \(even better, write them down somewhere safe\). 
+
+![](../../.gitbook/assets/screen-20shot-202020-06-16-20at-202.01.28-20pm.png)
 
 5. Go back to the previous page \([https://web.hypothes.is/start/](https://web.hypothes.is/start/)\) and click to download the google chrome extension. Install it as your system requires. 
 
 6. If you need to reopen Chrome after installing the hypothes.is extensions, do so and navigate to any webpage. You should now find the hypothes.is icon on your browser. You can click on the icon to start it up hypothes.is. 
 
+![After I took these screenshots I realized that hypothes.is does not work with Gitbook](../../.gitbook/assets/screen-20shot-202020-06-17-20at-209.16.27-20am.png)
+
 7. It will open up a new sidebar. This is what mine looks like on a page I have already begun to annotate. 
+
+![](../../.gitbook/assets/screen-20shot-202020-06-17-20at-209.28.08-20am.png)
 
 8. Hypothesis gives you three options to annotate. You can leave a comment on the page as a whole \(by clicking on page icon, or clicking on the words "Page Notes". 
 
+![](../../.gitbook/assets/screen-20shot-202020-06-17-20at-209.56.05-20am.png)
+
 9. If you click on the eyeball \(?\) icon or click on the word "Annotations" it will take you to annotations on specific text. To make an annotation simply select some text and either highlight it or choose to make an annotation. A text box will open in the sidebar. 
+
+![](../../.gitbook/assets/screen-20shot-202020-06-17-20at-209.28.50-20am.png)
 
 10. After you have entered your text be sure to press the "Post to ..." button, which makes the text available for others to see. You can also add tags in case you want to keep track of certain kinds of information to be searchable later. 
 
+![](../../.gitbook/assets/screen-20shot-202020-06-17-20at-2010.01.43-20am.png)
+
 11. Before you annotate anything, however, you will need to sign into hypothes.is again using your username and password by clicking on the person icon in the top right corner. 
+
+![](../../.gitbook/assets/screen-20shot-202020-06-17-20at-209.36.21-20am.png)
 
 12. Then click [this link](https://hypothes.is/groups/X7eRqmgQ/fysm1405d-making-the-ma) to join the class annotation group. This is super important. We want you to post in a goup that we can find and that people don't see publicly \(which is the default\). The link will ask you to sign in again. 
 
+![Yes, I stole this screen shot from a guide for another class...](../../.gitbook/assets/screen-20shot-202020-06-17-20at-209.44.24-20am.png)
+
 13. Then go back to the hypothes.is sidebar and on its top left corner you can select from "My Groups" i.e. where your annotations will appear. These are my choices - if you're using this for the first time your choices will be "Public" and "HIST2000 Medieval Europe". Select the second on the drop down menu. You'll notice that at the bottom of this drop down menu is the option to create a "New Private Group". If you want a group for annotations for doing research, you can create it and share it with others if you want. 
+
+![](../../.gitbook/assets/screen-20shot-202020-06-17-20at-209.36.44-20am.png)
 
 14. Play around with Hypothes.is. The first step is to view this page with the plugin activated, and **see the final instruction I have posted there**. You might also want to make a separate private folder for comments you want to keep to yourself \(or for each research project you are working on this year...\). 
 

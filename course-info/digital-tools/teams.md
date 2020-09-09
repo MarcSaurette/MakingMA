@@ -45,7 +45,7 @@ BUT if this is your first time signing into Teams, you will likely encounter som
 
 ![](../../.gitbook/assets/screen-20shot-202020-06-11-20at-209.43.44-20am-20copy.png)
 
-So this is a bit confusing, becuase your Carleton IT admins have enabled Microsoft Teams for Carleton students. So what you need to do is click on that button, "Sign Up for Teams". It might take you to another page where you enter the same "cmail" Carleton email address you did before, and follow their instructions. Then, the Microsoft website should then send you back to the Carleton email authentication page \(above step 8\) to finalize everything. 
+So this is a bit confusing, because your Carleton IT admins have enabled Microsoft Teams for Carleton students. So what you need to do is click on that button, "Sign Up for Teams". It might take you to another page where you enter the same "cmail" Carleton email address you did before, and follow their instructions. Then, the Microsoft website should then send you back to the Carleton email authentication page \(above step 8\) to finalize everything. 
 
 Or it might just keep sending you back to this message recursively. I would love to write this section up with screen shots for you, but I can't ... because I already did this stage before I realized I would need to explain this to other people. So try two things:
 
@@ -71,6 +71,6 @@ Download a PDF "[Quick Start Guide](https://edudownloads.azureedge.net/msdownloa
 Go to the next page for more information about how to use Teams for this class. 
 
 {% hint style="danger" %}
-Microsoft is pushing Teams in 2020 as their videoconference/ teaching solution because of the deperate need of schools, universities and government to quickly adopt a distance-learing "solution". It keeps getting updated and new functionalities appear frequently, so what it can do/ how we can use it might change over the course of our class.  
+Microsoft is pushing Teams in 2020 as their videoconference/ teaching solution because of the deperate need of schools, universities and government to quickly adopt a distance-learning "solution". It keeps getting updated and new functionalities appear frequently, so what it can do/ how we can use it might change over the course of our class.  
 {% endhint %}
 

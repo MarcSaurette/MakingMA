@@ -6,6 +6,10 @@ description: In progress
 
 [Hypothes.is ](https://hypothes.is)is a tool which allows you to annotate web content for your personal research use or, in our case, to allow us to collaborate as a group. It is, in essence, a digital version of you writing notes in the margins of a book/ photocopy. If you open a pdf in your browser, for example, you can annotate it and all your comments are saved in a central location.
 
+### Quick start:
+
+Click[ this link](https://hypothes.is/groups/X7eRqmgQ/fysm1405d-making-the-ma) to join the class hypothes.is group and register for an account. 
+
 ### Installing Hypothes.is
 
 We will use hypothes.is _via_ a plug-in on your Chrome Browser.
@@ -32,7 +36,7 @@ We will use hypothes.is _via_ a plug-in on your Chrome Browser.
 
 11. Before you annotate anything, however, you will need to sign into hypothes.is again using your username and password by clicking on the person icon in the top right corner. 
 
-12. Then click [this link](https://hypothes.is/groups/N1oaroPY/hist2000-medieval-europe) to join the class annotation group. This is super important. We want you to post in a goup that we can find and that people don't see publicly \(which is the default\). The link will ask you to sign in again. 
+12. Then click [this link](https://hypothes.is/groups/X7eRqmgQ/fysm1405d-making-the-ma) to join the class annotation group. This is super important. We want you to post in a goup that we can find and that people don't see publicly \(which is the default\). The link will ask you to sign in again. 
 
 13. Then go back to the hypothes.is sidebar and on its top left corner you can select from "My Groups" i.e. where your annotations will appear. These are my choices - if you're using this for the first time your choices will be "Public" and "HIST2000 Medieval Europe". Select the second on the drop down menu. You'll notice that at the bottom of this drop down menu is the option to create a "New Private Group". If you want a group for annotations for doing research, you can create it and share it with others if you want. 
 

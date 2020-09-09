@@ -12,9 +12,9 @@ Click[ this link](https://hypothes.is/groups/X7eRqmgQ/fysm1405d-making-the-ma) t
 
 ### Installing Hypothes.is
 
-We will use hypothes.is _via_ a plug-in on your Chrome Browser.
+We will use hypothes.is _via_ a plug-in on your Chrome Browser or a Bookmarklet on other browsers.
 
-1.If you don't already use Google Chrome, download a free copy [here](https://www.google.ca/chrome/) and install. The hypothes.is extension only works for Chrome. 
+1.If you don't already use Google Chrome, download a free copy [here](https://www.google.ca/chrome/) and install. The hypothes.is extension used to only works for Chrome, but now they give you other options. Chrome is still the most stable...
 
 2. Navigate to the hypothes.is website \([https://web.hypothes.is](https://web.hypothes.is/)\) and press the "Get Started" button in the top right corner. 
 

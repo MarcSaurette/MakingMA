@@ -6,11 +6,9 @@ description: In progress
 
 [Hypothes.is ](https://hypothes.is)is a tool which allows you to annotate web content for your personal research use or, in our case, to allow us to collaborate as a group. It is, in essence, a digital version of you writing notes in the margins of a book/ photocopy. If you open a pdf in your browser, for example, you can annotate it and all your comments are saved in a central location.
 
-
-
 ### Installing Hypothes.is
 
-We will use [hypothes.is]() _via_ a plug-in on your Chrome Browser.
+We will use hypothes.is _via_ a plug-in on your Chrome Browser.
 
 1.If you don't already use Google Chrome, download a free copy [here](https://www.google.ca/chrome/) and install. The hypothes.is extension only works for Chrome. 
 

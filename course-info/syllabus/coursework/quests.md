@@ -14,7 +14,7 @@ A key pathway to demonstrate skill mastery is by being completing \(online\) [wo
 
 If you are curious about this program, they are having an "open house" on September 16 to offer more information. I don't understand what this means, but have sent me an email saying you can register for it on "My Success". .  
 
-Each skill that you can demonstrate mastery of will earn you roughly 10 XP. 
+Each skill for which you can demonstrate mastery, will earn you roughly 10 XP. 
 
 {% tabs %}
 {% tab title="Study Skills" %}

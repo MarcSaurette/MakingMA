@@ -10,6 +10,12 @@ In the first few weeks of class, students will work in pre-assigned groups on "T
 
 Below is a table of beginner level skills to develop individually and independently. More advanced skills can be pursued upon completion of the starting level skills \(to be posted in the future\). After the first weeks of class, the current list will be supplemented by a description of the conditions necessary to be met in order for each student to demonstrate their mastery of a skill. 
 
+A key pathway to demonstrate skill mastery is by being completing \(online\) [workshops](https://carleton.ca/csas/learning-support/learning-support-workshops/) at the [Centre for Academic Support](https://carleton.ca/csas/). Our course is registered with their [Incentive Program](https://carleton.ca/csas/learning-support/incentive-program/) so that I can see who has completed workshops. You can self-enroll in these workshops [here](https://carleton.ca/csas/online-support/)
+
+If you are curious about this program, they are having an "open house" on September 16 to offer more information. I don't understand what this means, but have sent me an email saying you can register for it on "My Success". .  
+
+Each skill that you can demonstrate mastery of will earn you roughly 10 XP. 
+
 {% tabs %}
 {% tab title="Study Skills" %}
 * Task awareness \(1\)

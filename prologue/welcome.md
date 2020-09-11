@@ -7,7 +7,7 @@ By the end of the first week \(by Sunday, September 13th\), what should you **kn
 1. You'll get to know a bit about your professor and your fellow classmates
 2. You will know what the course is all about and how we're going to run it
 3. You will figure out how to use some tools necessary for learning online
-4. You will be introduced to the game, _Quest for the Middle Ages_
+4. You will be introduced to the game, _Quest for the Middle Ages_ by reading the Orientation guide \(in Perusall and also posted in Teams\). 
 
 ### Overview:
 

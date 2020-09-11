@@ -5,8 +5,8 @@
 By the end of this week, what should students **know**, be able to **do** and **understand**?
 
 1. Learn about how medievalists think about the periodization \(i.e. the temporal limits\) of the Middle Ages and why it is considered a historical period worthy \(or not\) of study.
-2. Learn what a primary source is and the problems of interpretation 
-3. Practice using Perusall in order to annotate a primary source 
+2. Learn what a primary source is and some means to address problems of interpretation while reading it
+3. Practice using Perusall to annotate readings and to cultivate discussions
 
 ### Overview:
 
@@ -43,9 +43,11 @@ Students need to have installed and successfully logged into Teams by Monday, Se
 * read the assigned chapter of Marc Bloch's _The Historican's Craft_ as preparation for a future discussion and writing exercise \(week 6\) on Perusall
 * in preparation for next week's class, read on Perusall, Holmes and Standen's "Towards a Global Middle Ages"– an introduction to an edited volume exploring the idea of the Middle Ages as a global phenomenon.
 
-### Write
+### Do
 
 By September 20th, students will need to take their introduction \(initially made on Teams\) and turn it into a proper [profile](../course-info/syllabus/coursework/reflections/profile.md) on [cuPortfolio](../course-info/digital-tools/cuportfolio.md). It does need to be sophisticated or any special \(though I would appreciate if it was\). This assignment is meant to get you used to the platform, which can take a bit of time getting used to. 
+
+By September 20th, I will release the rules of an orientation Scavenger hunt, designed for your to earn XP in your assigned houses. 
 
 ### Practice
 

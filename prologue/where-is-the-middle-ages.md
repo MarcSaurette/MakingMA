@@ -4,12 +4,18 @@
 
 By the end of this week, what should students **know**, be able to **do** and **understand**?
 
+* understand the fluidity to the geographic component of historical analysis
+* learn some approaches for reading scholarly sources via annotation
+* begin work on your personal _Quest for the Middle Ages_
+
 ### Overview:
 
 This week we will move from examing the Middle Ages as a temporal phenomenon \(a historical period\) to exploring its geographic definition. By understanding how medievalists are redefining the geographic extent of the "Medieval World", we will be able to nuance our idea of the Middle Ages
 
 * we will read about the historiography of the "Global Middle Ages"
-* 
+* we will seek to understand how new research on economic, social, religious and cultural exchange binds together a much wider geographic area than traditionally considered "Medieval"
+* learn about the game-based learning component of the first term
+
 ### **Online Time**
 
 On Monday, September 21st, the professor will 
@@ -28,7 +34,7 @@ What questions should students be discussing with each other on the discussion b
 
 ### **Do**
 
-What quizzes \(if any\) or other activities should students complete this week to evaluate their own progress? How will they know they are “on track”?
+Students will create a new page on Portfolio to present a "character profile" for their avatar in the _Quest for the Middle Ages_. 
 
 ### **Assess** 
 

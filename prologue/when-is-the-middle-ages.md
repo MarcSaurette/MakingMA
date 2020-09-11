@@ -19,8 +19,8 @@ This week will be exploring the idea of Periodization, asking how historical per
 3. We will brainstorm what constitutes the temporal boundaries of the Middle Ages \(and any possible subdivisions of them\). 
 4. Read and annotate a primary source on Perusall together on Wednesday the 16th \(and afterwards\)
 5. Annotate chapter 2 of Marcus Bull's _Thinking Medieval_ on Perusall before class on the 14th.
-6. Continue reading Marc Bloch's _The Historian's Craft_ on Perusall. 
-7. Optional Reading on Perusall about periodization. 
+6. Continue reading Marc Bloch's _The Historian's Craft_ on Perusall by the 20th. 
+7. Optional Reading on Perusall about periodization \(to be done at your leisure and whim\). 
 
 ### **Online Time**
 

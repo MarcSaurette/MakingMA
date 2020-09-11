@@ -9,7 +9,7 @@ At minimum, students are expected to log in to online lectures and tutorials hav
 
 ### Be Prepared
 
-The most important part of participation is being prepared. You might be willing to contribute and be able to speak persuasively, but this does not contribute if you have not read and thought about the materials assigned for each class. You are asked to make annotations on the readings of the textbook each week. This will be an important part of your participation. You'll be asked to write a minimum of seven \(7\) annotations each week on your [Readings](readings.md). 
+The most important part of participation is being prepared. You might be willing to contribute and be able to speak persuasively, but this does not contribute if you have not read and thought about the materials assigned for each class. You are asked to make annotations on the readings of the textbook each week. This will be an important part of your participation. You'll be asked to write a minimum of seven \(7\) annotations each week on your [Readings](../readings.md). 
 
 ### How to Participate
 

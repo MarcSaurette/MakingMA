@@ -19,6 +19,7 @@ This week will be exploring the idea of Periodization, asking how historical per
 3. We will brainstorm what constitutes the temporal boundaries of the Middle Ages \(and any possible subdivisions of them\). 
 4. Read and annotate a primary source on Perusall together on Wednesday the 16th \(and afterwards\)
 5. Read and annotate a secondary source on Perusall before class. 
+6. Continue reading Marc Bloch's _The Historian's Craft_ on Perusall. 
 
 ### **Online Time**
 
@@ -28,7 +29,7 @@ Students need to have installed and successfully logged into Teams by Monday, Se
 
 1. We will be meeting online from 13h00-14h30, Monday September 14, 2020.  [Join the Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3a3aa1fa742db944319f92713dd21474ef%40thread.tacv2/1591640213241?context=%7b%22Tid%22%3a%226ad91895-de06-485e-bc51-fce126cc8530%22%2c%22Oid%22%3a%22b8e11e76-90c8-4bf2-a5e3-cca184e3c823%22%7d). I will be online about 15 minutes before class if you want to discuss anything.  
 
-* the professor will introduce and talk about how to define the Middle Ages as a chronological period
+* the professor will introduce the class and talk about/ questions students about how to define the Middle Ages as a chronological period
 * students will divided into small groups to meet one another and to discuss assigned reading material.
 * we'll end this synchronous session with an AMA \(Ask-me-anything\) session for the final 20 mins.
 

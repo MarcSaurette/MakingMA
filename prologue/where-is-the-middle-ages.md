@@ -6,12 +6,13 @@ By the end of this week, what should students **know**, be able to **do** and **
 
 ### Overview:
 
-Provide a short rationale for this week’s work suggesting its purpose in terms of the program of studies. \(Why we're doing this...\)
+This week we will move from examing the Middle Ages as a temporal phenomenon \(a historical period\) to exploring its geographic definition. By understanding how medievalists are redefining the geographic extent of the "Medieval World", we will be able to nuance our idea of the Middle Ages
 
+* we will read about the historiography of the "Global Middle Ages"
 * 
 ### **Online Time**
 
-What will you focus on during your FaceTime with the students?
+On Monday, September 21st, the professor will 
 
 ### Read/Watch/Listen
 

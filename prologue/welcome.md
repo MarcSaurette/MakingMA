@@ -41,8 +41,6 @@ We are going to read the entirety of Marc Bloch's book over the first part of th
 
 4. You will also find an orientation guide to our pedagogical game, _Quest for the Middle Ages_ on Perusall. If you wish, annotate things you find interesting or confusing. 
 
-
-
 ### Practice
 
 This week, you are asked to complete a few tasks, as explained on the following pages: 

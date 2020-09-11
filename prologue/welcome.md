@@ -29,15 +29,19 @@ During class time in the first week \(**13h00-2h30, Wednesday September 9, 2020*
 
 ### Read/Watch/Listen
 
-Read the syllabus section of this course guide and also the sections on Digital Tools. 
+1. Read the syllabus section of this course guide and also the sections on Digital Tools. 
 
-Once you have logged-in to [Perusall](../course-info/digital-tools/perusall.md), you will find a copy of Marc Bloch's _The Historian's Craft_. Please read the introduction, and test out the annotation function it to emphasize key ideas, or ask questions of things which don't make sense. 
+2. Once you have logged-in to [Perusall](../course-info/digital-tools/perusall.md), you will find a copy of Marc Bloch's _The Historian's Craft_. Please read the introduction, and test out the annotation function it to emphasize key ideas, or ask questions of things which don't make sense. 
 
 {% hint style="info" %}
 We are going to read the entirety of Marc Bloch's book over the first part of the term to give us a sense of how the discipline of History has been defined. Each week you will have a reading and annotation assignments so that you get through the whole of the book by the week 6 class, when we will be discussing it and you will have to write a written response to the book. 
 {% endhint %}
 
-You will also find an orientation guide to our pedagogical game, _Quest for the Middle Ages_. Annotate things you find interesting or confusing. 
+3. As preparation for week 2, please read and annotate Zachary A. Strietelmeier, "Remembering the Middle Ages".
+
+4. You will also find an orientation guide to our pedagogical game, _Quest for the Middle Ages_ on Perusall. If you wish, annotate things you find interesting or confusing. 
+
+
 
 ### Practice
 

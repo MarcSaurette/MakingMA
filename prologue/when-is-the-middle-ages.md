@@ -15,10 +15,10 @@ This week marks the beginning of the synchronous learning portion of the class. 
 This week will be exploring the idea of Periodization, asking how historical periods are constructed after the fact to represent something meaningful for historians \(or other people interested in the past\). By understanding how we temporally define the past, we can see the basic axioms we hold about that period. 
 
 1. Spend some time fielding any technical questions
-2. Together we will illucidate what we think the Middle Ages were
-3. We will brainstorm that constitutes the temporal boundaries of the Middle Ages \(and any possible subdivisions of them\). 
-4. Read and annotate a primary source on Perusall
-5. Read and annotate a secondary source on Perusall
+2. Together we will elucidate what we think the Middle Ages were
+3. We will brainstorm what constitutes the temporal boundaries of the Middle Ages \(and any possible subdivisions of them\). 
+4. Read and annotate a primary source on Perusall together on Wednesday the 16th \(and afterwards\)
+5. Read and annotate a secondary source on Perusall before class. 
 
 ### **Online Time**
 

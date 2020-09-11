@@ -35,7 +35,7 @@ Students need to have installed and successfully logged into Teams by Monday, Se
 * students will be divided into small groups to meet one another \(and we'll take some time to accomplish this, perhaps?\)
 * we'll return to the class meeting and end this synchronous session with an AMA \(Ask-me-anything\) session for the final 20 mins.
 
-2. On Wednesday, September 16,  I will demonstate on Teams how to use Perusall to annotate a primary source in the course reader. I'll be working through the process live, speaking about the problems of interepretation, so you can follow along, ask questions, and annotate the text alongside your classmates in real time. If you prefer, you can do this on your own time, since this will be recorded and available for watching at a later time. 
+2. On Wednesday, September 16,  I will demonstate on Teams \([join here](https://teams.microsoft.com/l/meetup-join/19%3a3aa1fa742db944319f92713dd21474ef%40thread.tacv2/1591640213241?context=%7b%22Tid%22%3a%226ad91895-de06-485e-bc51-fce126cc8530%22%2c%22Oid%22%3a%22b8e11e76-90c8-4bf2-a5e3-cca184e3c823%22%7d)\) how to use Perusall to annotate a primary source in the course reader. I'll be working through the process live, speaking about the problems of interepretation, so you can follow along, ask questions, and annotate the text alongside your classmates in real time. If you prefer, you can do this on your own time, since this will be recorded and available for watching at a later time. 
 
 ### Read/Watch/Listen
 

@@ -1,5 +1,9 @@
 # Digital Tools
 
+{% hint style="danger" %}
+We will introduce these tools gradually over the course of the semester. You don't need to rush to get signed into all of them right away. 
+{% endhint %}
+
 We will be using a host of digital tools in this class -  intended to help everyone learn and work effectively online. I'll talk about these below, but first a caveat \(i.e. warning\). The course will require some bandwith – for streaming video for lectures, getting course materials and doing assignments. If you're sharing one internet connection with five roommates, for example, this might cause issues if you all are online at the same time. Or you might run out of data at some point if your plan is capped. Or you might be living somewhere where a broadband connection is not even a possibility. In event of such technical issues or accessibilty problems, please let me know as soon as possible so that we can come up with alternate solutions for you. 
 
 {% hint style="info" %}

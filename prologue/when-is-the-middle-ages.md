@@ -6,7 +6,7 @@ By the end of this week, what should students **know**, be able to **do** and **
 
 1. Learn about how medievalists think about the periodization \(i.e. the temporal limits\) of the Middle Ages and why it is considered a historical period worthy \(or not\) of study.
 2. Learn what a primary source is and the problems of interpretation 
-3. Learn how to use Perusall in order to annotate a primary source 
+3. Practice using Perusall in order to annotate a primary source 
 
 ### Overview:
 
@@ -34,13 +34,14 @@ Students need to have installed and successfully logged into Teams by Monday, Se
 * students will be divided into small groups to meet one another \(and we'll take some time to accomplish this, perhaps?\)
 * we'll return to the class meeting and end this synchronous session with an AMA \(Ask-me-anything\) session for the final 20 mins.
 
-2. On Wednesday, September 16,  I will demonstate on Teams how to use Perusall to annotate a primary source in the course reader. I'll be working through the process live, so you can follow along, ask questions, and annotate the text alongside your classmates in real time. If you prefer, you can do this on your own time, since this will be recorded and available for watching at a later time. 
+2. On Wednesday, September 16,  I will demonstate on Teams how to use Perusall to annotate a primary source in the course reader. I'll be working through the process live, speaking about the problems of interepretation, so you can follow along, ask questions, and annotate the text alongside your classmates in real time. If you prefer, you can do this on your own time, since this will be recorded and available for watching at a later time. 
 
 ### Read/Watch/Listen
 
-* read through the 4 pages of the[ Anatomy of a Primary Source ](../course-info/syllabus/coursework/assignments/2.-document-annotation-exercise/)exercise
-* read the _Founding Charter of Cluny_ in the primary source reader in Perusall
-* read the assigned chapter of Marc Bloch's _The Historican's Craft_
+* read through the pages of the[ Anatomy of a Primary Source ](../course-info/syllabus/coursework/assignments/2.-document-annotation-exercise/)exercise
+* read the _Founding Charter of Cluny_ in the primary source reader in Perusall. We will read it together on Wednesday the 16th, and students should make their annotations by September 20th at the latest. 
+* read the assigned chapter of Marc Bloch's _The Historican's Craft_ as preparation for a future discussion and writing exercise \(week 6\) on Perusall
+* in preparation for next week's class, reading on Perusall Holmes and Standen's "Towards a Global Middle Ages"introduction to an edited volume exploring the idea of the Middle Ages as a global phenomenon.
 
 ### Practice
 

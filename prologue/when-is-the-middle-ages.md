@@ -39,15 +39,23 @@ Students need to have installed and successfully logged into Teams by Monday, Se
 ### Read/Watch/Listen
 
 * read through the pages of the[ Anatomy of a Primary Source ](../course-info/syllabus/coursework/assignments/2.-document-annotation-exercise/)exercise
-* read the _Founding Charter of Cluny_ in the primary source reader in Perusall. We will read it together on Wednesday the 16th, and students should make their annotations by September 20th at the latest. 
+* read the _Founding Charter of Cluny_ on Perusall. We will read it together on Wednesday the 16th, and students should make their annotations by September 20th at the latest. 
 * read the assigned chapter of Marc Bloch's _The Historican's Craft_ as preparation for a future discussion and writing exercise \(week 6\) on Perusall
-* in preparation for next week's class, reading on Perusall Holmes and Standen's "Towards a Global Middle Ages"introduction to an edited volume exploring the idea of the Middle Ages as a global phenomenon.
+* in preparation for next week's class, read on Perusall, Holmes and Standen's "Towards a Global Middle Ages"– an introduction to an edited volume exploring the idea of the Middle Ages as a global phenomenon.
 
 ### Write
 
-By September 20th, students will need to take their introduction \(initially made on Teams\) and turn it into a profile 
+By September 20th, students will need to take their introduction \(initially made on Teams\) and turn it into a proper [profile](../course-info/syllabus/coursework/reflections/profile.md) on [cuPortfolio](../course-info/digital-tools/cuportfolio.md). It does need to be sophisticated or any special \(though I would appreciate if it was\). This assignment is meant to get you used to the platform, which can take a bit of time getting used to. 
 
 ### Practice
 
 Read the following pages as preparation for the annotation exercise on Perusall.
+
+{% page-ref page="../course-info/syllabus/coursework/assignments/2.-document-annotation-exercise/" %}
+
+{% page-ref page="../course-info/syllabus/coursework/assignments/2.-document-annotation-exercise/the-problem-of-primary-sources.md" %}
+
+{% page-ref page="../course-info/syllabus/coursework/assignments/2.-document-annotation-exercise/clunys-foundation-charter.md" %}
+
+
 

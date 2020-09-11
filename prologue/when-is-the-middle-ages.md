@@ -43,6 +43,10 @@ Students need to have installed and successfully logged into Teams by Monday, Se
 * read the assigned chapter of Marc Bloch's _The Historican's Craft_ as preparation for a future discussion and writing exercise \(week 6\) on Perusall
 * in preparation for next week's class, reading on Perusall Holmes and Standen's "Towards a Global Middle Ages"introduction to an edited volume exploring the idea of the Middle Ages as a global phenomenon.
 
+### Write
+
+By September 20th, students will need to take their introduction \(initially made on Teams\) and turn it into a profile 
+
 ### Practice
 
 Read the following pages as preparation for the annotation exercise on Perusall.

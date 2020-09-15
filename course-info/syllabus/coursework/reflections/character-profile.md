@@ -10,7 +10,7 @@ Given the current worldwide pandemic and that most \(all?\) of you will be dista
 
 At the beginning of the term you will 1\) write up a character for the game and 2\) begin a scavenger hunt to earn points towards leveling up at the Academy. 
 
-Please find below fillable pdf character sheets that you might want to use to present your character to your fellow classmates. Feel free to design your own on paper and post a scan to cuPortfolio, create a cuPortfolio version, or post the filled out template there. You can see mine [here](https://cuportfolio.carleton.ca/view/view.php?t=MpHJTKXdS4jzqZyLO3h7). 
+Please find below fillable pdf character sheets that you might want to use to present your character to your fellow classmates. Feel free to design your own on paper and post a scan to cuPortfolio, create a cuPortfolio version, or post the filled out template there. You can see mine [here](https://cuportfolio.carleton.ca/view/view.php?t=MpHJTKXdS4jzqZyLO3h7) \(you might need to sign into cuPortfolio first\). 
 
 Your character profile should include a description of:
 

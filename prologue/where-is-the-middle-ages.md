@@ -30,29 +30,32 @@ Students will need to read and annotate:
 
 * An article entitled, "Where are the Middle Ages" on a scholarly blog, the Public Medievalist, a copy of which is located on Perusall. 
 * Chapter two of Marc Bloch's _The Historian's Craft_ \(continuing\). This reading of the entire book is to give you background reading about the nature and purpose of the academic discipline of history. In week 6 we will discuss and you will write about your reaction to this text. 
-* 
+* On Wednesday, we will read an academic article looking the idea of the Global Middle Ages on Perusall. In preparation, please read the description of the exercise [here](../course-info/syllabus/coursework/assignments/3.-anatomy-of-an-academic-article/):  
+
 ### Practice
 
-We will continue to practice using the Perusall social annotation tool. 
+* We will continue to practice using the Perusall social annotation tool on Wednesday. 
 
 ### **Discuss**
 
 What questions should students be discussing with each other on Perusall this week?
 
-* 
+* when reading and annotating the texts for this week, think about when and where you think the Middle Ages are located. Do the categories the academics use fit with how YOU see the time period?
+
 ### **Do**
 
-Students are expected create a new page on cuPortfolio to present a "character profile" for their avatar in the _Quest for the Middle Ages_ and share it with the group. Students may wish to do some further reading about the game to complete your profile. 
+Students are expected create a new page on cuPortfolio to present a "character profile" for their avatar in the _Quest for the Middle Ages_ and share it with the group. The writing assignment is [explained here](../course-info/syllabus/coursework/reflections/character-profile.md). Students may wish to do some further reading about the game to complete your profile. A detailed \(overly detailed!\) [guide](https://teams.microsoft.com/l/file/D880313A-D8D4-4648-AD77-2862440FDC02?tenantId=6ad91895-de06-485e-bc51-fce126cc8530&fileType=pdf&objectUrl=https%3A%2F%2Fcmailcarletonca.sharepoint.com%2Fsites%2FTheMakingoftheMiddleAges%2FShared%20Documents%2FQuest%20for%20the%20Middle%20Ages%2FQuest%20for%20the%20Middle%20Ages%20-%20Basic%20Rules%202.0%20-%20Sept%202020.pdf&baseUrl=https%3A%2F%2Fcmailcarletonca.sharepoint.com%2Fsites%2FTheMakingoftheMiddleAges&serviceName=teams&threadId=19:9da4334b1e974aba99aeffa79987a865@thread.tacv2&groupId=2000157d-2098-47ef-b47d-341fc17c0e3a) to character creation is posted in the _Quest for the Middle Ages_ channel on Teams.
 
-### **Assess** 
+### **Assessment** 
 
-Is there a graded assignment this week? If so, what is the assignment and when does it need to be submitted?
+This week you will receive feedback on the Profiles you created on cuPortfolio last week. 
 
 ### Going Further
 
 If students want to do more to ensure success, what materials and resources \(e.g. reading, video, audio simulations, games\) do you recommend?
 
-### **Help**
+* Students can make sure they are logged into hypothes.is.
+* if they have any further questions about the class, meet with the professor during online office hours on Wednesday mornings from 11h00-12h00.  I'll be online and you can call me through Teams directly for a voice or videochat. 
 
- If a student is struggling, how should they seek help?
+\*\*\*\*
 

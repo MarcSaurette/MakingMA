@@ -6,7 +6,7 @@ By the end of this week, what should students **know**, be able to **do** and **
 
 * understand the fluidity to the geographic component of historical analysis
 * learn some approaches for reading scholarly sources via annotation
-* begin work on your personal _Quest for the Middle Ages_
+* begin work on your personal _Quest for the Middle Ages \(scavenger hunt\)_
 
 ### Overview:
 
@@ -16,7 +16,7 @@ This week we will move from examing the Middle Ages as a temporal phenomenon \(a
 * we will read about the historiography of the "Global Middle Ages"
 * we will seek to understand how the modern concept of the "National State" impacts how we view the past \(including the Middle Ages\)
 * we will seek to understand how new research on economic, social, religious and cultural exchange binds together a much wider geographic area than is traditionally considered "Medieval"
-* learn about the game-based learning component of the first term of class
+* begin the game-based learning component of the first term of class \(i.e. the Scavenger Hunt\)
 
 ### **Online Time**
 
@@ -29,19 +29,20 @@ On Wednesday, September 23rd, the professor will lead students through the proce
 Students will need to read and annotate:
 
 * An article entitled, "Where are the Middle Ages" on a scholarly blog, the Public Medievalist, a copy of which is located on Perusall. 
-* Chapter two of Marc Bloch's _The Historian's Craft_ \(continuing\)
+* Chapter two of Marc Bloch's _The Historian's Craft_ \(continuing\). This reading of the entire book is to give you background reading about the nature and purpose of the academic discipline of history. In week 6 we will discuss and you will write about your reaction to this text. 
 * 
 ### Practice
 
-Cluny foundation - translation exercise
+We will continue to practice using the Perusall social annotation tool. 
 
 ### **Discuss**
 
-What questions should students be discussing with each other on the discussion board for this course?
+What questions should students be discussing with each other on Perusall this week?
 
+* 
 ### **Do**
 
-Students will create a new page on cuPortfolio to present a "character profile" for their avatar in the _Quest for the Middle Ages_. Students may wish to do some further reading about the game to complete your profile. 
+Students are expected create a new page on cuPortfolio to present a "character profile" for their avatar in the _Quest for the Middle Ages_ and share it with the group. Students may wish to do some further reading about the game to complete your profile. 
 
 ### **Assess** 
 

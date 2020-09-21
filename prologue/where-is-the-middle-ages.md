@@ -28,7 +28,7 @@ On Wednesday, September 23rd, the professor will lead students through the proce
 
 Students will need to read and annotate:
 
-* An article entitled, "Where are the Middle Ages" on a scholarly blog, the Public Medievalist, a copy of which is located on Perusall. 
+* An article entitled, "Where are the Middle Ages" on a scholarly blog, the _Public Medievalist_, a copy of which is located on Perusall. 
 * Chapter two of Marc Bloch's _The Historian's Craft_ \(continuing\). This reading of the entire book is to give you background reading about the nature and purpose of the academic discipline of history. In week 6 we will discuss and you will write about your reaction to this text. 
 * On Wednesday, we will read an academic article looking the idea of the Global Middle Ages on Perusall. In preparation, please read the description of the exercise [here](../course-info/syllabus/coursework/assignments/3.-anatomy-of-an-academic-article/):  
 

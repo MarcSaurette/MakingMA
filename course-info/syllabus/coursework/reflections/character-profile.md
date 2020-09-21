@@ -28,6 +28,7 @@ Your character profile should include a description of:
 * have a space for "weapon proficiencies" \(this will be where you list different academic tricks you have been able to use in your writing, arguments and discussions\)
 * have a place for academic reputation \(you all start with 10 - the highest until you demonstrate yourself to be unworthy\)
 * any possessions you might have on your person \(which could be used in the future\)
+* a space for a journal \(i.e. a cuPortfolio journal\). In future weeks you will be writing other things for class, and they will form a journal of sorts for the first term. 
 
 
 

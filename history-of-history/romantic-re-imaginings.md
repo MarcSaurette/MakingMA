@@ -28,6 +28,10 @@ What questions should students be discussing with each other on the discussion b
 
 What quizzes \(if any\) or other activities should students complete this week to evaluate their own progress? How will they know they are “on track”?
 
+Submit an [End of Week Report ](https://forms.office.com/Pages/ResponsePage.aspx?id=lRjZagbeXki8UfzhJsyFMHYe4bjIkPJLpePMoYTjyCNUQlY3V0pYOVJPQVMzVDJXR05OWjBHT01YQy4u)on Sunday night \(each week\) to let me know if you have any questions and \(this week\) to provide a link to your cuPortfolio profile.
+
+
+
 ### **Assess** 
 
 Is there a graded assignment this week? If so, what is the assignment and when does it need to be submitted?

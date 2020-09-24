@@ -1,6 +1,6 @@
 # The Middle Ages in Games
 
-Goals for this week
+### Goals for this week
 
 By the end of this week, what should students **know**, be able to **do** and **understand**?
 

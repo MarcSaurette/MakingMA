@@ -6,3 +6,9 @@ We intend to use this week to catch up on topics have merit more investigation, 
 
 But the first 45 minutes of class, will be devoted to exploring the idea of "What is the point of History" drawing on the reading of Marc Block's _The Historian's Craft_ as the focus for our discussion. 
 
+
+
+### Do
+
+Submit an [End of Week Report ](https://forms.office.com/Pages/ResponsePage.aspx?id=lRjZagbeXki8UfzhJsyFMHYe4bjIkPJLpePMoYTjyCNUQlY3V0pYOVJPQVMzVDJXR05OWjBHT01YQy4u)on Sunday night \(each week\) to let me know if you have any questions and \(this week\) to provide a link to your cuPortfolio profile.
+

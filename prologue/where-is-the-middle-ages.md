@@ -46,6 +46,10 @@ What questions should students be discussing with each other on Perusall this we
 
 Students are expected create a new page on cuPortfolio to present a "character profile" for their avatar in the _Quest for the Middle Ages_ and share it with the group. The writing assignment is [explained here](../course-info/syllabus/coursework/reflections/character-profile.md). Students may wish to do some further reading about the game to complete your profile. A detailed \(overly detailed!\) [guide](https://teams.microsoft.com/l/file/D880313A-D8D4-4648-AD77-2862440FDC02?tenantId=6ad91895-de06-485e-bc51-fce126cc8530&fileType=pdf&objectUrl=https%3A%2F%2Fcmailcarletonca.sharepoint.com%2Fsites%2FTheMakingoftheMiddleAges%2FShared%20Documents%2FQuest%20for%20the%20Middle%20Ages%2FQuest%20for%20the%20Middle%20Ages%20-%20Basic%20Rules%202.0%20-%20Sept%202020.pdf&baseUrl=https%3A%2F%2Fcmailcarletonca.sharepoint.com%2Fsites%2FTheMakingoftheMiddleAges&serviceName=teams&threadId=19:9da4334b1e974aba99aeffa79987a865@thread.tacv2&groupId=2000157d-2098-47ef-b47d-341fc17c0e3a) to character creation is posted in the _Quest for the Middle Ages_ channel on Teams.
 
+Submit an [End of Week Report ](https://forms.office.com/Pages/ResponsePage.aspx?id=lRjZagbeXki8UfzhJsyFMHYe4bjIkPJLpePMoYTjyCNUQlY3V0pYOVJPQVMzVDJXR05OWjBHT01YQy4u)on Sunday night \(each week\) to let me know if you have any questions and \(this week\) to provide a link to your cuPortfolio profile.
+
+
+
 ### **Assessment** 
 
 This week you will receive feedback on the Profiles you created on cuPortfolio last week. 

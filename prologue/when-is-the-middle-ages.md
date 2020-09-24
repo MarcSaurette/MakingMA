@@ -50,7 +50,7 @@ By September 20th, students will need to take their introduction \(initially mad
 
 By September 20th, I will release the rules of an orientation Scavenger hunt, designed for your to earn XP in your assigned houses. 
 
-Submit an End of Week Report on Sunday night \(each week\) to let me know if you have any questions and \(this week\) to provide a link to your cuPortfolio profile. 
+Submit an [End of Week Report ](https://forms.office.com/Pages/ResponsePage.aspx?id=lRjZagbeXki8UfzhJsyFMHYe4bjIkPJLpePMoYTjyCNUQlY3V0pYOVJPQVMzVDJXR05OWjBHT01YQy4u)on Sunday night \(each week\) to let me know if you have any questions and \(this week\) to provide a link to your cuPortfolio profile. 
 
 ### Practice
 

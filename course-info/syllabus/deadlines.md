@@ -14,7 +14,7 @@ Instead we are going to establish a system of academic honour or **Reputation** 
 | :--- | :--- |
 | [cuPortfolio profile](coursework/reflections/profile.md) | 10pm Sunday of week 2 \(September 20\) |
 | [Character profile](coursework/reflections/character-profile.md) | 10pm Sunday of week 3 \(September 27\) |
-| [The Seeking](coursework/quests.md#the-seeking) | 10pm Sunday of week 4  \(October 4\) |
+| [The Seeking](coursework/quests.md#the-seeking) | 10pm Friday of week 4  \(October 2\) |
 | [Writing Journal](coursework/reflections/) | Each entry due 10pm the Sunday after each week of class |
 | [Exercises](coursework/assignments/) | Generally 10am the Sunday after each week of class |
 | [Quests](coursework/quests.md) | As completed \(optional\) in first 10 weeks of class \(no later than November 25th for credit\) |

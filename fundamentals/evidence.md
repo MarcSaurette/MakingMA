@@ -10,30 +10,39 @@ By the end of this week, what should students **know**, be able to **do** and **
 
 ### Overview:
 
-Provide a short rationale for this week’s work suggesting its purpose in terms of the program of studies. \(Why we're doing this...\)
+The foundation of History is the claim that it can say something truthful about the past. Historians for the past 50 years about how truthful our claims are, but fundamental to the historian's craft is an idea that our research is grounded in a search for truth. 
 
 ### **Online Time**
 
-On Monday, September 28th, we will be discussing questions raised by Marcus Bull's chapter on the "Evidence for Medieval History". 
+On Monday, September 28th, we will be discussing questions raised by Marcus Bull's chapter on the "Evidence for Medieval History". In particular we will be thinking about what constitutes proof \(and proof of what\). In advance of class, think about all the possible ways why evidence survives to the present and how it gets lost.
+
+On Wednesday, September 30th, we will visit the world of the Academy for the first time. My young acolytes, bring your questions. 
 
 ### Read/Watch/Listen
 
 What do students need to read this week?
 
+* you will read a chapter in Marcus Bull's book, _Thinking Medieval_ on "Evidence for Medieval History"
+* try to see if you can track down online some of the sources and evidence that Bull references in his book \(add links as annotations on Perusall\). 
+* you will read another chapter of Marc Bloch's _The Historian's Craft_
+
 ### Practice
 
-Are there practical activities \(tasks, labs, fieldwork\), which students must do this week? If so, what are they and what specifically do they need to do, bearing in mind social-distancing?
+* make sure you're logged into hypothes.is
+* let's start using Zotero
 
-### **Discuss**
+### **Consider for Discussion**
 
 What questions should students be discussing with each other on the discussion board for this course?
 
 * students should think about what we expect to be able to say truthfully about sources from the past
 * and consider how, even if the sources are clearly lying to you, what kinds of things can we still use it to reveal about the past 
+* what makes something evidence? Is some evidence better than others?
+* how does evidence survive to the present?
 
 ### **Do**
 
-What quizzes \(if any\) or other activities should students complete this week to evaluate their own progress? How will they know they are “on track”?
+
 
 Submit an [End of Week Report ](https://forms.office.com/Pages/ResponsePage.aspx?id=lRjZagbeXki8UfzhJsyFMHYe4bjIkPJLpePMoYTjyCNUQlY3V0pYOVJPQVMzVDJXR05OWjBHT01YQy4u)on Sunday night \(each week\) to let me know if you have any questions and \(this week\) to provide a link to your cuPortfolio profile.
 

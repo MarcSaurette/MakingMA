@@ -17,6 +17,7 @@ This week I want you to:
 1. read and use hypothes.is to comment on the [Medieval Studies](https://en.wikipedia.org/wiki/Medieval_studies) entry on Wikipedia.
 2. read and annotate "How to write Fake Global History" on Perusall. 
 3. read and annotate the next chapter of _Thinking Medieval_ on Perusall.
+4. Susan Tudin from MacOdrum Library will talk about how to use library resources
 
 ### **Online Time**
 
@@ -26,15 +27,17 @@ As usual, I'll be online 30 mins before the start of class on Wednesdays to help
 
 ### Read/Watch/Listen
 
-Read the syllabus section of this course guide and also the sections on Digital Tools. 
+tbd
 
+### Do
 
-
-Do
+Submit a journal entry, detailing your idea of [What the Middle Ages were](../course-info/syllabus/coursework/reflections/what-do-i-think-about-the-middle-ages.md)?
 
 Submit an [End of Week Report ](https://forms.office.com/Pages/ResponsePage.aspx?id=lRjZagbeXki8UfzhJsyFMHYe4bjIkPJLpePMoYTjyCNUQlY3V0pYOVJPQVMzVDJXR05OWjBHT01YQy4u)on Sunday night \(each week\) to let me know if you have any questions and \(this week\) to provide a link to your cuPortfolio profile.
 
 ### Practice
 
 This week, you are asked to complete a few tasks, as explained on the following pages: 
+
+tbd
 

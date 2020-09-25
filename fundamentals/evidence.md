@@ -10,7 +10,7 @@ By the end of this week, what should students **know**, be able to **do** and **
 
 ### Overview:
 
-The foundation of History is the claim that it can say something truthful about the past. Historians for the past 50 years about how truthful our claims are, but fundamental to the historian's craft is an idea that our research is grounded in a search for truth. 
+The foundation of History is the claim that it can say something truthful about the past. Historians for the past 50 years have debate  how truthful our claims are, but fundamental to the historian's craft is an idea that our research is grounded in a search for truth. We are going to explore the basic premise that an honest search for truth matters, and that we need to think that everything we read is something trying to lie to us. 
 
 ### **Online Time**
 
@@ -29,9 +29,9 @@ What do students need to read this week?
 ### Practice
 
 * make sure you're logged into hypothes.is
-* let's start using Zotero
+* let's start using Zotero. Make sure you're a part of it by Wednesday. 
 
-### **Consider for Discussion**
+### **To Consider for Our Discussion**
 
 What questions should students be discussing with each other on the discussion board for this course?
 
@@ -39,6 +39,7 @@ What questions should students be discussing with each other on the discussion b
 * and consider how, even if the sources are clearly lying to you, what kinds of things can we still use it to reveal about the past 
 * what makes something evidence? Is some evidence better than others?
 * how does evidence survive to the present?
+* how does cultivating distrust help a historian?
 
 ### **Do**
 

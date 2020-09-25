@@ -4,13 +4,17 @@
 
 By the end of this week, what should students **know**, be able to **do** and **understand**?
 
+* how to conceptualize the difference of primary and secondary sources
+* consider how primary and secondary sources require different ways of reading
+* consider how Medieval Studies has developed a range of sub-disciplines to understand how to read primary sources
+
 ### Overview:
 
 Provide a short rationale for this week’s work suggesting its purpose in terms of the program of studies. \(Why we're doing this...\)
 
 ### **Online Time**
 
-What will you focus on during your FaceTime with the students?
+On Monday, September 28th, we will be discussing questions raised by Marcus Bull's chapter on the "Evidence for Medieval History". 
 
 ### Read/Watch/Listen
 
@@ -23,6 +27,9 @@ Are there practical activities \(tasks, labs, fieldwork\), which students must d
 ### **Discuss**
 
 What questions should students be discussing with each other on the discussion board for this course?
+
+* students should think about what we expect to be able to say truthfully about sources from the past
+* and consider how, even if the sources are clearly lying to you, what kinds of things can we still use it to reveal about the past 
 
 ### **Do**
 

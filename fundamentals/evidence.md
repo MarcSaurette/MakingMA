@@ -1,6 +1,6 @@
 # Evidence
 
-### Goals for this week
+### Goals for this week \(September 28/30, 2020\)
 
 By the end of this week, what should students **know**, be able to **do** and **understand**?
 

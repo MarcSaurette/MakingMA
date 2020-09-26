@@ -21,23 +21,20 @@ This week I want you to:
 
 ### **Online Time**
 
-This week will have two synchronous meetings. On Monday the 5th, we will have our class time as normal and on October 7th, we will have Susan Tudin from MacOdrum Library introduce us to online resources for doing research. 
+This week will have two synchronous meetings. On Monday the 5th, we will have our class time as normal and on October 7th, we will have Susan Tudin from MacOdrum Library introduce us to online resources for doing research. She'll present for the first part of Wednesday's class and then we'll talk about the Wikipedia entry on Medieval Studies \(and how authoritative to consider it\). 
 
-As usual, I'll be online 30 mins before the start of class on Wednesdays to help with questions you might have, concerns you want to address and the such. 
+As usual, I'll be online 15 mins before the start of class on Wednesdays to help with questions you might have, concerns you want to address and the such. 
 
 ### Read/Watch/Listen
 
-tbd
+* read the Wikipedia article on "Medieval Studies" using hypothesis
+* read another chapter of Marcus Bull's _Thinking Medieval_ on Perusall
+* read another chapter of Marc Bloch's _The Historians Craft_
+* \(optional\) read and annotate "How to Write Fake Global History" on Perusall
 
 ### Do
 
 Submit a journal entry, detailing your idea of [What the Middle Ages were](../course-info/syllabus/coursework/reflections/what-do-i-think-about-the-middle-ages.md)?
 
 Submit an [End of Week Report ](https://forms.office.com/Pages/ResponsePage.aspx?id=lRjZagbeXki8UfzhJsyFMHYe4bjIkPJLpePMoYTjyCNUQlY3V0pYOVJPQVMzVDJXR05OWjBHT01YQy4u)on Sunday night \(each week\) to let me know if you have any questions and \(this week\) to provide a link to your cuPortfolio profile.
-
-### Practice
-
-This week, you are asked to complete a few tasks, as explained on the following pages: 
-
-tbd
 

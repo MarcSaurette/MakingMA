@@ -49,11 +49,3 @@ Submit an [End of Week Report ](https://forms.office.com/Pages/ResponsePage.aspx
 
 You will receive feedback from the previous week's writing assignment. 
 
-### Going Further
-
-If students want to do more to ensure success, what materials and resources \(e.g. reading, video, audio simulations, games\) do you recommend?
-
-### **Help**
-
- If a student is struggling, how should they seek help?
-

@@ -49,3 +49,26 @@ Submit an [End of Week Report ](https://forms.office.com/Pages/ResponsePage.aspx
 
 You will receive feedback from the previous week's writing assignment. 
 
+### Links:
+
+**Marcus Bull**: 
+
+* [https://history.unc.edu/faculty-members/marcus-bull/](https://history.unc.edu/faculty-members/marcus-bull/) \(faculty page\)
+* [https://unc.academia.edu/MarcusBull](https://unc.academia.edu/MarcusBull) Academia.edu page \(facebook for scholars\)
+* [http://history.sites.unc.edu/files/2017/07/Bull-CV-Dec-2011.pdf](http://history.sites.unc.edu/files/2017/07/Bull-CV-Dec-2011.pdf) \(Marcus Bull CV\)
+* [https://www.youtube.com/watch?v=ufm6A6CUaPw](https://www.youtube.com/watch?v=ufm6A6CUaPw) Marcus Bull talking about Game of Thrones
+
+**Cairo Genizah**: [https://cudl.lib.cam.ac.uk/collections/genizah/1](https://cudl.lib.cam.ac.uk/collections/genizah/1)
+
+**DEEDS database**: [https://deeds.library.utoronto.ca](https://deeds.library.utoronto.ca)
+
+**Sexy Codiclogy \(on a medieval lampshade\):** [https://sexycodicology.net/blog/medieval-manuscript-lampshade/](https://sexycodicology.net/blog/medieval-manuscript-lampshade/)
+
+**Burning of Sarajevo's National Library \(Bosnia\)**: [https://www.dw.com/en/burned-library-symbolizes-multiethnic-sarajevo/a-16192965](https://www.dw.com/en/burned-library-symbolizes-multiethnic-sarajevo/a-16192965)
+
+**Jean Mabillon's** _**De Re Diplomatica**_: [https://gallica.bnf.fr/ark:/12148/bpt6k1510935z](https://gallica.bnf.fr/ark:/12148/bpt6k1510935z)
+
+
+
+
+

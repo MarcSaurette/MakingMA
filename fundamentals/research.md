@@ -15,9 +15,11 @@ This week we are getting to the meat and potatoes of the material for this term 
 This week I want you to: 
 
 1. read and use hypothes.is to comment on the [Medieval Studies](https://en.wikipedia.org/wiki/Medieval_studies) entry on Wikipedia.
-2. read and annotate "How to write Fake Global History" on Perusall. 
+2. \(optional\) read and annotate "How to write Fake Global History" on Perusall. 
 3. read and annotate the next chapter of _Thinking Medieval_ on Perusall.
-4. Susan Tudin from MacOdrum Library will talk about how to use library resources
+4. read another chapter of Marc Bloch's _The Historians Craft_
+
+Also, Susan Tudin from MacOdrum Library will talk about how to use library resources
 
 ### **Online Time**
 

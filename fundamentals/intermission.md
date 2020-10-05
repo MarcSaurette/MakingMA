@@ -8,5 +8,7 @@ But the first 45 minutes of class, will be devoted to exploring the idea of "Wha
 
 ### Do
 
+For this week's writing assignment, write about a historian \(preferably a medievalist\) that you have read, heard about, or follow on social media. 
+
 Submit an [End of Week Report ](https://forms.office.com/Pages/ResponsePage.aspx?id=lRjZagbeXki8UfzhJsyFMHYe4bjIkPJLpePMoYTjyCNUQlY3V0pYOVJPQVMzVDJXR05OWjBHT01YQy4u)on Sunday night \(each week\) to let me know if you have any questions and \(this week\) to provide a link to your cuPortfolio profile.
 

@@ -23,7 +23,7 @@ Also, Susan Tudin from MacOdrum Library will talk about how to use library resou
 
 ### **Online Time**
 
-This week will have two synchronous meetings. On Monday the 5th, we will have our class time as normal and on October 7th, we will have Susan Tudin from MacOdrum Library introduce us to online resources for doing research. She'll present for the first part of Wednesday's class and then we'll talk about the Wikipedia entry on Medieval Studies \(and how authoritative to consider it\). 
+This week will have two synchronous meetings. On Monday the 5th, we will have our class time as normal and on October 7th, we will have Susan Tudin from MacOdrum Library introduce us to online resources for doing research. She'll present for the first part of Wednesday's class and then we'll talk about the Wikipedia entry on Medieval Studies \(and how authoritative to consider it\) and I might show you how to use Zotero to help with research. 
 
 As usual, I'll be online 15 mins before the start of class on Wednesdays to help with questions you might have, concerns you want to address and the such. 
 

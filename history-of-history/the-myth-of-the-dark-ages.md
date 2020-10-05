@@ -26,7 +26,7 @@ What questions should students be discussing with each other on the discussion b
 
 ### **Do**
 
-What quizzes \(if any\) or other activities should students complete this week to evaluate their own progress? How will they know they are “on track”?
+For this week's writing assignment, write about a historian \(alive or dead, but preferably a medievalist\) that you have read, heard about, or follow on social media.  
 
 Submit an [End of Week Report ](https://forms.office.com/Pages/ResponsePage.aspx?id=lRjZagbeXki8UfzhJsyFMHYe4bjIkPJLpePMoYTjyCNUQlY3V0pYOVJPQVMzVDJXR05OWjBHT01YQy4u)on Sunday night \(each week\) to let me know if you have any questions and \(this week\) to provide a link to your cuPortfolio profile.
 

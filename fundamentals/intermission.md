@@ -12,7 +12,7 @@ Finish reading Marc Bloch's _The Historian's Craft._
 
 ### Do
 
-For this week's writing assignment, write your \(or your character's\) justification for studying History or the Middle Ages, answering the questions "Why Study History"? You can write a reflective piece \(delving into how your background, or the experiences encourging you to study history\). You may wish to think about how your motivations compare to Marc Bloch's or what Marcus Bull discusses? OR you might wish to focus on more big picture questions - thinking about what history is good for in a more philosophical sense? Or argue the opposite, that History is not a useful, practical or good use of resources!
+For this week's writing assignment, write your \(or your character's\) justification for studying History or the Middle Ages, answering the questions "Why Study History"? You can write a reflective piece \(delving into how your \(or your acolyte's\) background, or the experiences encourging you to study history\). You may wish to think about how your motivations compare to Marc Bloch's or what Marcus Bull discusses? OR you might wish to focus on more big picture questions - thinking about what history is good for in a more philosophical sense? Or argue the opposite, that History is not a useful, practical or good use of resources!
 
 Submit an [End of Week Report ](https://forms.office.com/Pages/ResponsePage.aspx?id=lRjZagbeXki8UfzhJsyFMHYe4bjIkPJLpePMoYTjyCNUQlY3V0pYOVJPQVMzVDJXR05OWjBHT01YQy4u)on Sunday night \(each week\) to let me know if you have any questions and \(this week\) to provide a link to your cuPortfolio profile.
 

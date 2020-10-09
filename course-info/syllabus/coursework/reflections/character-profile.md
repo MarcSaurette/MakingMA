@@ -30,7 +30,31 @@ Your character profile should include a description of:
 * any possessions you might have on your person \(which could be used in the future\)
 * a space for a journal \(i.e. a cuPortfolio journal\). In future weeks you will be writing other things for class, and they will form a journal of sorts for the first term. 
 
+### Questions to ask during your character creation:
 
+Who is your acolyte? Give a name and a brief description of your acolyte’s physical appearance and personality. Is s/he/they tall? Handsome? Charming? Blonde? Brilliant? Kinda dumb? 
+
+How is your character able to attend the prestigious Academy? Is s/he/they royalty? A charity case? The son of a rich crime lord? A child prodigy? It’s up to you to decide how your acolyte pays their tuition. 
+
+Why were you chosen to be a member of the Academy? What legendary act of intelligence, bravery, chivalry, skill, heart or daring did you perform to be given the title of Acolyte of the Academy? 
+
+What is your acolyte’s drive or ultimate goal? Does s/he/they desire ancient and obscure knowledge? Or want to find true love? Become the heir to their family’s empire? Be the first to adventure into the unknown? This will be the thing your acolyte strives for throughout the game. 
+
+Lastly, draw/find a picture of your acolyte. This will help both you and your fellow students get a better idea of who your character is and why he was chosen to be a member of the Academy. 
+
+**After character creation has happened:**
+
+Based on what you see of your fellow acolytes: please answer the following for two other acolytes:
+
+* What do you propose is their greatest strength? 
+*  What might you suspect is their greatest weakness?
+* Do you have an arch-rival or ardent appreciation of another student? 
+  * Roll a six sided die \(or visit the [google digital one](https://www.google.com/search?q=dice+roller)\)
+    * §  1-2 = you have an archrival
+    * §  3-4 = you find yourself admiring another
+    * §  5-6 = you’re pretty neutral about the others
+  * If you have an archrival or object of admiration, choose a character \(based on what you’ve read\) or roll a 1d20 \([google digital one](https://www.google.com/search?q=dice+roller)\). Numbers are randomly preassigned to all members of the class.
+  * let the professor know name/ the number so he can incorporate this into the storyline \(and let you know what your number corresponds to\).
 
 {% file src="../../../../.gitbook/assets/qma-cs-1.pdf" caption="Character Sheet Template \(page 1\)" %}
 

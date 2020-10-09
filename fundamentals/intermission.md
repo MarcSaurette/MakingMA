@@ -6,6 +6,8 @@ We intend to use this week to catch up on topics have merit more investigation, 
 
 But the first 45 minutes of class, will be devoted to exploring the idea of "What is the point of History" drawing on the reading of Marc Block's _The Historian's Craft_ as the focus for our discussion. We will start with you in small groups debating this general question - "Why History" and then try to relate it to studying the Middle Ages. 
 
+And we will catch up with the world of the Academy. 
+
 ### Read. 
 
 Finish reading Marc Bloch's _The Historian's Craft._ 

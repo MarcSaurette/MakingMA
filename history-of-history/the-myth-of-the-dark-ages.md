@@ -4,6 +4,8 @@
 
 By the end of this week, what should students **know**, be able to **do** and **understand**?
 
+This week will be the reset for the course. We will read 
+
 ### Overview:
 
 Provide a short rationale for this week’s work suggesting its purpose in terms of the program of studies. \(Why we're doing this...\)
@@ -18,7 +20,7 @@ What do students need to read this week?
 
 ### Practice
 
-Are there practical activities \(tasks, labs, fieldwork\), which students must do this week? If so, what are they and what specifically do they need to do, bearing in mind social-distancing?
+In this week and the next weeks we will be closely reading _The Devil's Historians_
 
 ### **Discuss**
 

@@ -55,6 +55,8 @@
 
 * [Investiture Controversy Game](investiture-controversy/untitled/README.md)
   * [Timeline](investiture-controversy/untitled/timeline.md)
+  * [Writing](investiture-controversy/untitled/writing.md)
+  * [Speaking](investiture-controversy/untitled/speaking.md)
 
 ## Prologue
 

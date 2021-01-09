@@ -4,6 +4,37 @@
 I'll post an overview schedule for the course here. Obviously, this is still in progress. 
 {% endhint %}
 
+## Term II - Gaming the Middle Ages
+
+| Dates | Subjects |
+| :--- | :--- |
+| January 11, 2021 | Re-Orientation and Introduction to _Reacting to the Past_ |
+| January 13, 2021 | Introduction to the Medieval Church |
+| January 18, 2021 | Introduction to the Investiture Controversy |
+| January 20, 2021 | Game Play Begins - _Pataria_ Mini-Game |
+| January 25, 2021 | Synod of Worms I |
+| January 27, 2021 | Synod of Woms II |
+| February 1, 2021 | Lenten Synod at Rome I |
+| February 3, 2021 | Lenten Synod at Rome II |
+| February 8, 2021 | Meeting at Trebur I |
+| February 10, 2021 | Meeting at Trebur II |
+| February 15-19 | Winter Break - No classes |
+| February 22, 2021 | Canossa |
+| February 24, 2021 | Post-Game Debrief |
+| March 1, 2021 | CHOICE: Second Crusade RTTP game or Game Design Project  |
+| March 3, 2021 | TBD |
+| March 8, 2021 | TBD |
+| March 10, 2021 | TBD |
+| March 15, 2021 | TBD |
+| March 17, 2021 | TBD |
+| March 22, 2021 | TBD |
+| March 24, 2021 | TBD |
+| March 29, 2021 | TBD |
+| March 31, 2021 | TBD |
+| April 5, 2021 | TBD |
+| April 7, 2021 | TBD |
+| April 12, 2021 | TBD |
+
 ## Term I - Quest for the Middle Ages
 
 ### Prologue \(weeks 1-3\)

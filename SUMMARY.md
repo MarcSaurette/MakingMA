@@ -51,6 +51,11 @@
   * [Quest for the Middle Ages](course-info/game-based-learning/quest-for-the-middle-ages.md)
   * [Game Design](course-info/game-based-learning/game-design.md)
 
+## Investiture Controversy
+
+* [Investiture Controversy Game](investiture-controversy/untitled/README.md)
+  * [Timeline](investiture-controversy/untitled/timeline.md)
+
 ## Prologue
 
 * [Orientation](prologue/welcome.md)

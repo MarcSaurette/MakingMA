@@ -55,12 +55,12 @@
 
 * [Investiture Controversy Game](investiture-controversy/untitled/README.md)
   * [Timeline](investiture-controversy/untitled/timeline.md)
-  * [Assessment](investiture-controversy/untitled/assessment.md)
   * [Writing](investiture-controversy/untitled/writing/README.md)
     * [RTTP Writing Rubric](investiture-controversy/untitled/writing/untitled.md)
   * [Speaking](investiture-controversy/untitled/speaking/README.md)
     * [Participation Rubric](investiture-controversy/untitled/speaking/untitled.md)
     * [RTTP Speaking Rubric](investiture-controversy/untitled/speaking/untitled-1.md)
+  * [Assessment](investiture-controversy/untitled/assessment.md)
 
 ## Prologue
 

@@ -5,6 +5,7 @@ Midway through the course and at the end of the term, students will be asked to 
 I will post a form on Teams for students to submit, but you may submit a long form written answer \(an argument rather than answers to specific questions\) if you prefer.
 
 * [Link to Mid-Term Self Assessment](https://forms.office.com/Pages/ResponsePage.aspx?id=lRjZagbeXki8UfzhJsyFMHYe4bjIkPJLpePMoYTjyCNUMDFLSk4xTFpJRVBYVTFBSE1OWUNWMkdFMS4u)  \(Due Monday, March 1, 10am\)
+* The final end of year assessment will be a \(600 word\) reflection on your work this year
 
 
 

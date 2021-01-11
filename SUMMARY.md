@@ -61,6 +61,7 @@
     * [Participation Rubric](investiture-controversy/untitled/speaking/untitled.md)
     * [RTTP Speaking Rubric](investiture-controversy/untitled/speaking/untitled-1.md)
   * [Assessment](investiture-controversy/untitled/assessment.md)
+  * [Dicing](investiture-controversy/untitled/untitled.md)
 
 ## Prologue
 

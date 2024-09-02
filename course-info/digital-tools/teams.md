@@ -52,8 +52,8 @@ Or it might just keep sending you back to this message recursively. I would love
 1. You might need to enable additional Office365 features. Carleton has instructions on how to do this on this webpage ([https://carleton.ca/its/o365/unsupported/](https://carleton.ca/its/o365/unsupported/)), where they declare (most forcefully, I do declare):&#x20;
 
 **YOU MUST ENABLE O365 SERVICES (other than email, which is enabled by default)**\
-****\
-****To **enable** Microsoft Office 365 Services, (other than email which is pre-enabled), accept Microsoft’s offer here:
+\
+To **enable** Microsoft Office 365 Services, (other than email which is pre-enabled), accept Microsoft’s offer here:
 
 * **Students**: [carleton.ca/its/ms-offer-students](https://carleton.ca/its/ms-offer-students)
 * **Staff/faculty**: [carleton.ca/its/ms-offer-faculty](https://carleton.ca/its/ms-offer-faculty)

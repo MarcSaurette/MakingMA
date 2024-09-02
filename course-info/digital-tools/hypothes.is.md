@@ -16,7 +16,7 @@ We will use hypothes.is _via_ a plug-in on your Chrome Browser or a Bookmarklet 
 
 1.If you don't already use Google Chrome, download a free copy [here](https://www.google.ca/chrome/) and install. The hypothes.is extension used to only works for Chrome, but now they give you other options. Chrome is still the most stable...
 
-2\. Navigate to the hypothes.is website ([https://web.hypothes.is](https://web.hypothes.is)) and press the "Get Started" button in the top right corner.&#x20;
+2\. Navigate to the hypothes.is website ([https://web.hypothes.is](https://web.hypothes.is/)) and press the "Get Started" button in the top right corner.&#x20;
 
 ![](../../.gitbook/assets/Screen%20Shot%202020-06-16%20at%202.03.38%20PM.png)
 

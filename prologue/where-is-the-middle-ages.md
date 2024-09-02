@@ -61,4 +61,3 @@ If students want to do more to ensure success, what materials and resources (e.g
 * Students can make sure they are logged into [hypothes.is](../course-info/digital-tools/hypothes.is.md) and [zotero](../course-info/digital-tools/zotero.md).&#x20;
 * if they have any further questions about the class, meet with the professor during online office hours on Wednesday mornings from 11h00-12h00.  I'll be online and you can call me through Teams directly for a voice or videochat.&#x20;
 
-****

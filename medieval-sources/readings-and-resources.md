@@ -22,7 +22,7 @@ Paul Freedman's Early Middle Ages (videos): [https://www.youtube.com/playlist?li
 
 **Core readings: Ian Mortimer,** [**"Why Historians Should Write Fiction"**](http://ihrconference.wordpress.com/2011/11/23/why-historians-should-write-fiction/)**; Larissa MacFarquhar,**&#x20;
 
-[**"The Dead Are Real"** ](http://www.newyorker.com/reporting/2012/10/15/121015fa\_fact\_macfarquhar)**.** Definitions of historical fiction can be found in many places and take many forms. Perry Anderson's ["From Progress to Catastrophe"](http://www.lrb.co.uk/v33/n15/perry-anderson/from-progress-to-catastrophe)is a sophisticated overview of the historical novel since the early nineteenth century (it appeared in the _London Review of Books)_. You might also visit the extensive website of the [Historical Novel Society](http://historicalnovelsociety.org),\
-**Core reading: Matthew Phillpott,** [**"A Brief History of Historical Fiction"**](http://ihrconference.wordpress.com/2011/11/25/a-history-of-historical-fiction/) ****&#x20;
+[**"The Dead Are Real"** ](http://www.newyorker.com/reporting/2012/10/15/121015fa\_fact\_macfarquhar)**.** Definitions of historical fiction can be found in many places and take many forms. Perry Anderson's ["From Progress to Catastrophe"](http://www.lrb.co.uk/v33/n15/perry-anderson/from-progress-to-catastrophe)is a sophisticated overview of the historical novel since the early nineteenth century (it appeared in the _London Review of Books)_. You might also visit the extensive website of the [Historical Novel Society](http://historicalnovelsociety.org/),\
+**Core reading: Matthew Phillpott,** [**"A Brief History of Historical Fiction"**](http://ihrconference.wordpress.com/2011/11/25/a-history-of-historical-fiction/)&#x20;
 
 \
